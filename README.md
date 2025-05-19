@@ -1,128 +1,117 @@
 # Neighborhood Market
 
-**Versão Flutter**: 3.27.1 (gerenciado via FVM)
-**Repositório**: [https://github.com/GabriPalmyro/neighborhood-market.git](https://github.com/GabriPalmyro/neighborhood-market.git)
+**Flutter Version**: 3.27.1 (managed via FVM)
+**Repository**: [https://github.com/GabriPalmyro/neighborhood-market.git](https://github.com/GabriPalmyro/neighborhood-market.git)
 
-## Descrição
+## Overview
 
-O Neighborhood Market é um aplicativo móvel Flutter para compra e venda de produtos em comunidades locais. Permite ao usuário:
+Neighborhood Market is a Flutter mobile application for buying and selling items within local communities. Key features include:
 
-* Criar anúncios de produtos com até 5 imagens (captura de câmera ou galeria).
-* Compartilhar produtos via links dinâmicos (Firebase Dynamic Links).
-* Receber push notifications personalizadas (OneSignal).
-* Realizar pagamentos integrados com Stripe (Android e iOS) e Google Pay.
-* Armazenar dados sensíveis com segurança (flutter\_secure\_storage).
-* Carregar configurações remotas do servidor (Firebase Remote Config).
-* Navegação declarativa com `go_router` e gerenciamento de estado com BLoC.
+* **Product Listings**: Create product posts with up to five images (camera capture or gallery selection).
+* **Deep Linking**: Share and open product pages via Firebase Dynamic Links.
+* **Push Notifications**: Customized icons and accent colors using OneSignal.
+* **Payments**: Integrated Stripe payments (Android and iOS) and Google Pay support.
+* **Secure Storage**: Store sensitive data securely with `flutter_secure_storage`.
+* **Remote Configuration**: Adjust app behavior remotely via Firebase Remote Config.
+* **Navigation & State**: Declarative routing with `go_router` and state management using the BLoC pattern.
 
-## Principais Funcionalidades
+## Key Features
 
-* **Cadastro de Produtos**: captura de fotos, validação de tamanho/formatos e limite de imagens.
-* **Deep Linking**: abertura de produtos diretamente via links públicos e dinâmicos.
-* **Push Notifications**: ícones customizados, cor de acento e notificações remotas com OneSignal.
-* **Pagamentos**: Stripe Android (`stripe_android`), Stripe iOS e Google Pay.
-* **Configuração Remota**: ajustes de funcionalidades sem redeploy via Firebase Remote Config.
-* **Segurança**: permissões de câmera, galeria, notificações e armazenamento seguro.
-* **Arquitetura**: Flutter + Dart, FVM, BLoC Pattern, Freezed para imutabilidade.
+* **Add Products**: Capture photos, validate file size and formats, limit number of images.
+* **Dynamic Links**: Seamlessly open specific product pages from shared links.
+* **Notifications**: Send targeted notifications with custom icons and colors.
+* **Checkout**: Secure in-app purchases with Stripe SDKs and Google Pay.
+* **Remote Control**: Toggle features and configurations without releasing new builds.
+* **Data Security**: Enforce runtime permissions and secure local storage.
+* **Architecture**: Clean, modular code with Flutter + Dart, FVM, BLoC, and Freezed for immutability.
 
-## Tecnologias e Dependências
+## Technologies & Dependencies
 
-* **Flutter 3.27.1** (FVM)
+* **Flutter 3.27.1** (via FVM)
 * **Dart**
-* **State Management**: `bloc` / `flutter_bloc`
+* **State Management**: `bloc`, `flutter_bloc`
 * **Routing**: `go_router`
-* **Permissões**: `permission_handler`
-* **Captura de Imagens**: `image_picker`
-* **Armazenamento Seguro**: `flutter_secure_storage`
+* **Permissions**: `permission_handler`
+* **Image Picker**: `image_picker`
+* **Secure Storage**: `flutter_secure_storage`
 * **Firebase**: `firebase_core`, `firebase_dynamic_links`, `firebase_remote_config`
-* **Notificações**: `onesignal_flutter`
-* **Pagamentos**: Android (`stripe_android`), iOS (`stripe_ios`), Google Pay (`play-services-wallet`)
-* **Utilitários**: `freezed_annotation`, `vector_math`, `material_color_utilities`, `share_plus`
-* **Teste**: `bloc_test`, `leak_tracker_flutter_testing`
+* **Notifications**: `onesignal_flutter`
+* **Payments**: `stripe_android`, `stripe_ios`, `play-services-wallet` (Google Pay)
+* **Utilities**: `freezed_annotation`, `vector_math`, `material_color_utilities`, `share_plus`
+* **Testing**: `bloc_test`, `leak_tracker_flutter_testing`
 
-## Estrutura de Diretórios
+## Project Structure
 
-```
+```plaintext
 neighborhood-market/
-├── android/                 # Projeto Android
-├── ios/                     # Projeto iOS
+├── android/                 # Android project files
+├── ios/                     # iOS project files
 ├── lib/
-│   ├── main.dart            # App entrypoint
-│   ├── core/                # Configurações e serviços (Firebase, Stripe, OneSignal)
-│   ├── features/            # Funcionalidades em módulos (product builder, notifications, payments)
-│   ├── shared/              # Widgets, estilos, utils
-├── test/                    # Testes unitários e BLoC
-├── fvm_config.json          # Versão Flutter definida pelo FVM
-├── .env.template            # Variáveis de ambiente (não comitar chaves)
-├── .gitignore
-└── README.md
+│   ├── main.dart            # Application entry point
+│   ├── core/                # Services and configurations (Firebase, Stripe, OneSignal)
+│   ├── features/            # Feature modules (product creation, notifications, payments)
+│   ├── shared/              # Shared widgets, styles, utilities
+├── test/                    # Unit and BLoC tests
+├── fvm_config.json          # FVM configuration file
+├── .env.template            # Environment variable template (excluded from VCS)
+├── .gitignore               # Git ignore rules
+└── README.md                # Project overview and setup instructions
 ```
 
-## Pré-requisitos
+## Prerequisites
 
-* `git`
-* `fvm` (`dart pub global activate fvm`)
-* Flutter SDK (via FVM)
-* Xcode (macOS) / Android Studio + SDK
+* Git
+* FVM (`dart pub global activate fvm`)
+* Flutter SDK (installed via FVM)
+* Xcode (macOS) or Android Studio + Android SDK
 
-## Configuração do Projeto
+## Setup Instructions
 
-1. **Clone o repositório**
+1. **Clone repository**
 
    ```bash
    git clone https://github.com/GabriPalmyro/neighborhood-market.git
    cd neighborhood-market
    ```
-2. **Instale a versão Flutter**
+
+2. **Install Flutter version**
 
    ```bash
    fvm install
    fvm use
    ```
-3. **Variáveis de Ambiente**
 
-   * Copie `.env.template` para `.env` e preencha:
+3. **Configure environment variables**
 
+   * Copy `.env.template` to `.env` and fill in your keys:
+
+     ```environment
+     STRIPE_PUBLISHABLE_KEY=your_key_here
+     STRIPE_SECRET_KEY=your_secret_key_here
+     ONESIGNAL_APP_ID=your_onesignal_app_id
+     GOOGLE_SERVICES_JSON_PATH=path/to/google-services.json
+     GOOGLE_SERVICE_INFO_PLIST_PATH=path/to/GoogleService-Info.plist
      ```
-     STRIPE_PUBLISHABLE_KEY=...
-     STRIPE_SECRET_KEY=...
-     ONESIGNAL_APP_ID=...
-     GOOGLE_SERVICES_JSON_PATH=...
-     GOOGLE_SERVICE_INFO_PLIST_PATH=...
-     ```
-4. **Instale dependências Flutter**
+
+4. **Install Flutter dependencies**
 
    ```bash
    fvm flutter pub get
    ```
-5. **Android**
 
-   * Edite `android/app/src/main/AndroidManifest.xml` para permissões e configurações do OneSignal:
+5. **Android Configuration**
 
-     ```xml
-     <meta-data android:name="com.onesignal.NotificationIcon" android:resource="@drawable/ic_notification_custom"/>
-     <meta-data android:name="com.onesignal.NotificationAccentColor" android:value="FFFFFF"/>
-     ```
-   * Execute:
-
-     ```bash
-     cd android
-     pod install # se necessário para plugins iOS (OneSignal Extension)
-     cd ..
-     ```
-6. **iOS**
-
-   * Adicione as descrições de uso em `Info.plist`:
+   * Update `android/app/src/main/AndroidManifest.xml`:
 
      ```xml
-     <key>NSCameraUsageDescription</key>
-     <string>...</string>
-     <key>NSPhotoLibraryUsageDescription</key> ...
-     <key>NSMicrophoneUsageDescription</key> ...
-     <key>NSAppleMusicUsageDescription</key> ...
-     <key>NSLocationWhenInUseUsageDescription</key> ...
+     <meta-data
+       android:name="com.onesignal.NotificationIcon"
+       android:resource="@drawable/ic_notification_custom"/>
+     <meta-data
+       android:name="com.onesignal.NotificationAccentColor"
+       android:value="FFFFFF"/>
      ```
-   * Execute:
+   * (If using iOS extension) run:
 
      ```bash
      cd ios
@@ -130,13 +119,38 @@ neighborhood-market/
      cd ..
      ```
 
-## Execução
+6. **iOS Configuration**
 
-* **Android/iOS**
+   * Add permission descriptions to `Info.plist`:
+
+     ```xml
+     <key>NSCameraUsageDescription</key>
+     <string>Permission to use camera for product photos</string>
+     <key>NSPhotoLibraryUsageDescription</key>
+     <string>Permission to access photo library</string>
+     <key>NSMicrophoneUsageDescription</key>
+     <string>Permission to record audio for product videos</string>
+     <key>NSAppleMusicUsageDescription</key>
+     <string>Not used directly; required by an external SDK</string>
+     <key>NSLocationWhenInUseUsageDescription</key>
+     <string>Not used directly; required by an external SDK</string>
+     ```
+   * Install CocoaPods:
+
+     ```bash
+     cd ios
+     pod install
+     cd ..
+     ```
+
+## Running the App
+
+* **Debug**
 
   ```bash
   fvm flutter run
   ```
+
 * **Release Build**
 
   ```bash
@@ -144,25 +158,27 @@ neighborhood-market/
   fvm flutter build ios --release
   ```
 
-## Testes
+## Testing
 
-* **Teste unitário**
+* **Unit Tests**
 
   ```bash
   fvm flutter test
   ```
-* **Teste de BLoC**
+
+* **BLoC Tests**
 
   ```bash
   fvm flutter test test/bloc
   ```
 
-## Contribuição
+## Contributing
 
-1. Crie uma *issue* para reportar bugs ou sugerir melhorias.
-2. Crie uma *branch* com a feature ou correção (`git checkout -b feature/nova-coisa`).
-3. Faça commit das suas alterações e envie um *pull request*.
+1. Open an issue to report bugs or request features.
+2. Create a new branch (`git checkout -b feature/your-feature`).
+3. Make your changes and commit (`git commit -m 'Add new feature'`).
+4. Push to your branch and open a pull request.
 
-## Licença
+## License
 
-MIT © Gabriel Palmyro
+This project is licensed under the MIT License © Gabriel Palmyro
