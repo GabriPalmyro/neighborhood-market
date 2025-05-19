@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "327993510370",
+    "project_id": "neighbordhood-app",
+    "storage_bucket": "neighbordhood-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:327993510370:android:2f1d2e2c9c5692ba5811bb",
+        "android_client_info": {
+          "package_name": "com.myclosetconnections.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAltl1B3uxXp8cn81IEatLYaXADJQJcfbs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

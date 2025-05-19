@@ -1,0 +1,69 @@
+/Users/gabrielpalmyro/Desktop/programacao/neighborhood/ios/Pods/StripeCore/StripeCore/StripeCore/Source/Analytics/Analytic.swift
+/Users/gabrielpalmyro/Desktop/programacao/neighborhood/ios/Pods/StripeCore/StripeCore/StripeCore/Source/Analytics/AnalyticLoggableError.swift
+/Users/gabrielpalmyro/Desktop/programacao/neighborhood/ios/Pods/StripeCore/StripeCore/StripeCore/Source/Analytics/AnalyticLoggableErrorV2.swift
+/Users/gabrielpalmyro/Desktop/programacao/neighborhood/ios/Pods/StripeCore/StripeCore/StripeCore/Source/Analytics/AnalyticsClientV2.swift
+/Users/gabrielpalmyro/Desktop/programacao/neighborhood/ios/Pods/StripeCore/StripeCore/StripeCore/Source/Analytics/AnalyticsHelper.swift
+/Users/gabrielpalmyro/Desktop/programacao/neighborhood/ios/Pods/StripeCore/StripeCore/StripeCore/Source/Helpers/Async.swift
+/Users/gabrielpalmyro/Desktop/programacao/neighborhood/ios/Pods/StripeCore/StripeCore/StripeCore/Source/Helpers/BundleLocatorProtocol.swift
+/Users/gabrielpalmyro/Desktop/programacao/neighborhood/ios/Pods/StripeCore/StripeCore/StripeCore/Source/Categories/Decimal+StripeCore.swift
+/Users/gabrielpalmyro/Desktop/programacao/neighborhood/ios/Pods/StripeCore/StripeCore/StripeCore/Source/Categories/Dictionary+Stripe.swift
+/Users/gabrielpalmyro/Desktop/programacao/neighborhood/ios/Pods/StripeCore/StripeCore/StripeCore/Source/API\ Bindings/Models/EmptyResponse.swift
+/Users/gabrielpalmyro/Desktop/programacao/neighborhood/ios/Pods/StripeCore/StripeCore/StripeCore/Source/Categories/Enums+CustomStringConvertible.swift
+/Users/gabrielpalmyro/Desktop/programacao/neighborhood/ios/Pods/StripeCore/StripeCore/StripeCore/Source/Helpers/FileDownloader.swift
+/Users/gabrielpalmyro/Desktop/programacao/neighborhood/ios/Pods/StripeCore/StripeCore/StripeCore/Source/Connections\ Bindings/FinancialConnectionsEvent.swift
+/Users/gabrielpalmyro/Desktop/programacao/neighborhood/ios/Pods/StripeCore/StripeCore/StripeCore/Source/Connections\ Bindings/FinancialConnectionsLinkedBank.swift
+/Users/gabrielpalmyro/Desktop/programacao/neighborhood/ios/Pods/StripeCore/StripeCore/StripeCore/Source/Connections\ Bindings/FinancialConnectionsSDKInterface.swift
+/Users/gabrielpalmyro/Desktop/programacao/neighborhood/ios/Pods/StripeCore/StripeCore/StripeCore/Source/Connections\ Bindings/FinancialConnectionsSDKResult.swift
+/Users/gabrielpalmyro/Desktop/programacao/neighborhood/ios/Pods/StripeCore/StripeCore/StripeCore/Source/Telemetry/FraudDetectionData.swift
+/Users/gabrielpalmyro/Desktop/programacao/neighborhood/ios/Pods/StripeCore/StripeCore/StripeCore/Source/Helpers/InstallMethod.swift
+/Users/gabrielpalmyro/Desktop/programacao/neighborhood/ios/Pods/StripeCore/StripeCore/StripeCore/Source/Connections\ Bindings/InstantDebitsLinkedBank.swift
+/Users/gabrielpalmyro/Desktop/programacao/neighborhood/ios/Pods/StripeCore/StripeCore/StripeCore/Source/Categories/Locale+StripeCore.swift
+/Users/gabrielpalmyro/Desktop/programacao/neighborhood/ios/Pods/StripeCore/StripeCore/StripeCore/Source/Analytics/NetworkDetector.swift
+/Users/gabrielpalmyro/Desktop/programacao/neighborhood/ios/Pods/StripeCore/StripeCore/StripeCore/Source/Categories/NSArray+Stripe.swift
+/Users/gabrielpalmyro/Desktop/programacao/neighborhood/ios/Pods/StripeCore/StripeCore/StripeCore/Source/Categories/NSBundle+Stripe_AppName.swift
+/Users/gabrielpalmyro/Desktop/programacao/neighborhood/ios/Pods/StripeCore/StripeCore/StripeCore/Source/Categories/NSCharacterSet+StripeCore.swift
+/Users/gabrielpalmyro/Desktop/programacao/neighborhood/ios/Pods/StripeCore/StripeCore/StripeCore/Source/Categories/NSError+Stripe.swift
+/Users/gabrielpalmyro/Desktop/programacao/neighborhood/ios/Pods/StripeCore/StripeCore/StripeCore/Source/Categories/NSError+StripeCore.swift
+/Users/gabrielpalmyro/Desktop/programacao/neighborhood/ios/Pods/StripeCore/StripeCore/StripeCore/Source/Categories/NSMutableURLRequest+Stripe.swift
+/Users/gabrielpalmyro/Desktop/programacao/neighborhood/ios/Pods/StripeCore/StripeCore/StripeCore/Source/Categories/NSURLComponents+Stripe.swift
+/Users/gabrielpalmyro/Desktop/programacao/neighborhood/ios/Pods/StripeCore/StripeCore/StripeCore/Source/Helpers/PaymentsSDKVariant.swift
+/Users/gabrielpalmyro/Desktop/programacao/neighborhood/ios/Pods/StripeCore/StripeCore/StripeCore/Source/Analytics/PluginDetector.swift
+/Users/gabrielpalmyro/Desktop/programacao/neighborhood/ios/Pods/StripeCore/StripeCore/StripeCore/Source/Helpers/Result+Extensions.swift
+/Users/gabrielpalmyro/Desktop/programacao/neighborhood/ios/Pods/StripeCore/StripeCore/StripeCore/Source/Helpers/ServerErrorMapper.swift
+/Users/gabrielpalmyro/Desktop/programacao/neighborhood/ios/Pods/StripeCore/StripeCore/StripeCore/Source/Analytics/STPAnalyticEvent.swift
+/Users/gabrielpalmyro/Desktop/programacao/neighborhood/ios/Pods/StripeCore/StripeCore/StripeCore/Source/Analytics/STPAnalyticsClient.swift
+/Users/gabrielpalmyro/Desktop/programacao/neighborhood/ios/Pods/StripeCore/StripeCore/StripeCore/Source/Analytics/STPAnalyticsClient+Error.swift
+/Users/gabrielpalmyro/Desktop/programacao/neighborhood/ios/Pods/StripeCore/StripeCore/StripeCore/Source/API\ Bindings/STPAPIClient.swift
+/Users/gabrielpalmyro/Desktop/programacao/neighborhood/ios/Pods/StripeCore/StripeCore/StripeCore/Source/API\ Bindings/STPAPIClient+FileUpload.swift
+/Users/gabrielpalmyro/Desktop/programacao/neighborhood/ios/Pods/StripeCore/StripeCore/StripeCore/Source/API\ Bindings/STPAppInfo.swift
+/Users/gabrielpalmyro/Desktop/programacao/neighborhood/ios/Pods/StripeCore/StripeCore/StripeCore/Source/Helpers/STPAssert.swift
+/Users/gabrielpalmyro/Desktop/programacao/neighborhood/ios/Pods/StripeCore/StripeCore/StripeCore/Source/Helpers/STPDeviceUtils.swift
+/Users/gabrielpalmyro/Desktop/programacao/neighborhood/ios/Pods/StripeCore/StripeCore/StripeCore/Source/Helpers/STPDispatchFunctions.swift
+/Users/gabrielpalmyro/Desktop/programacao/neighborhood/ios/Pods/StripeCore/StripeCore/StripeCore/Source/Helpers/STPError.swift
+/Users/gabrielpalmyro/Desktop/programacao/neighborhood/ios/Pods/StripeCore/StripeCore/StripeCore/Source/Localization/STPLocalizationUtils.swift
+/Users/gabrielpalmyro/Desktop/programacao/neighborhood/ios/Pods/StripeCore/StripeCore/StripeCore/Source/Localization/STPLocalizedString.swift
+/Users/gabrielpalmyro/Desktop/programacao/neighborhood/ios/Pods/StripeCore/StripeCore/StripeCore/Source/API\ Bindings/STPMultipartFormDataEncoder.swift
+/Users/gabrielpalmyro/Desktop/programacao/neighborhood/ios/Pods/StripeCore/StripeCore/StripeCore/Source/API\ Bindings/STPMultipartFormDataPart.swift
+/Users/gabrielpalmyro/Desktop/programacao/neighborhood/ios/Pods/StripeCore/StripeCore/StripeCore/Source/Helpers/STPNumericStringValidator.swift
+/Users/gabrielpalmyro/Desktop/programacao/neighborhood/ios/Pods/StripeCore/StripeCore/StripeCore/Source/Telemetry/STPTelemetryClient.swift
+/Users/gabrielpalmyro/Desktop/programacao/neighborhood/ios/Pods/StripeCore/StripeCore/StripeCore/Source/Helpers/STPURLCallbackHandler.swift
+/Users/gabrielpalmyro/Desktop/programacao/neighborhood/ios/Pods/StripeCore/StripeCore/StripeCore/Source/Localization/String+Localized.swift
+/Users/gabrielpalmyro/Desktop/programacao/neighborhood/ios/Pods/StripeCore/StripeCore/StripeCore/Source/Categories/String+StripeCore.swift
+/Users/gabrielpalmyro/Desktop/programacao/neighborhood/ios/Pods/StripeCore/StripeCore/StripeCore/Source/API\ Bindings/StripeAPI.swift
+/Users/gabrielpalmyro/Desktop/programacao/neighborhood/ios/Pods/StripeCore/StripeCore/StripeCore/Source/API\ Bindings/StripeAPIConfiguration.swift
+/Users/gabrielpalmyro/Desktop/programacao/neighborhood/ios/Pods/StripeCore/StripeCore/StripeCore/Source/API\ Bindings/StripeAPIConfiguration+Version.swift
+/Users/gabrielpalmyro/Desktop/programacao/neighborhood/ios/Pods/StripeCore/StripeCore/StripeCore/Source/Coder/StripeCodable.swift
+/Users/gabrielpalmyro/Desktop/programacao/neighborhood/ios/Pods/StripeCore/StripeCore/StripeCore/Source/Helpers/StripeCoreBundleLocator.swift
+/Users/gabrielpalmyro/Desktop/programacao/neighborhood/ios/Pods/StripeCore/StripeCore/StripeCore/Source/API\ Bindings/StripeError.swift
+/Users/gabrielpalmyro/Desktop/programacao/neighborhood/ios/Pods/StripeCore/StripeCore/StripeCore/Source/API\ Bindings/Models/StripeFile.swift
+/Users/gabrielpalmyro/Desktop/programacao/neighborhood/ios/Pods/StripeCore/StripeCore/StripeCore/Source/Coder/StripeJSONDecoder.swift
+/Users/gabrielpalmyro/Desktop/programacao/neighborhood/ios/Pods/StripeCore/StripeCore/StripeCore/Source/Coder/StripeJSONEncoder.swift
+/Users/gabrielpalmyro/Desktop/programacao/neighborhood/ios/Pods/StripeCore/StripeCore/StripeCore/Source/Coder/StripeJSONShared.swift
+/Users/gabrielpalmyro/Desktop/programacao/neighborhood/ios/Pods/StripeCore/StripeCore/StripeCore/Source/API\ Bindings/StripeServiceError.swift
+/Users/gabrielpalmyro/Desktop/programacao/neighborhood/ios/Pods/StripeCore/StripeCore/StripeCore/Source/UI/UIActivityIndicatorView+Stripe.swift
+/Users/gabrielpalmyro/Desktop/programacao/neighborhood/ios/Pods/StripeCore/StripeCore/StripeCore/Source/UI/UIFont+Stripe.swift
+/Users/gabrielpalmyro/Desktop/programacao/neighborhood/ios/Pods/StripeCore/StripeCore/StripeCore/Source/Categories/UIImage+StripeCore.swift
+/Users/gabrielpalmyro/Desktop/programacao/neighborhood/ios/Pods/StripeCore/StripeCore/StripeCore/Source/Coder/UnknownFields.swift
+/Users/gabrielpalmyro/Desktop/programacao/neighborhood/ios/Pods/StripeCore/StripeCore/StripeCore/Source/Helpers/URLEncoder.swift
+/Users/gabrielpalmyro/Desktop/programacao/neighborhood/ios/Pods/StripeCore/StripeCore/StripeCore/Source/Helpers/URLSession+Retry.swift
+/Users/gabrielpalmyro/Desktop/programacao/neighborhood/ios/Pods/StripeCore/StripeCore/StripeCore/Source/Telemetry/UserDefaults+PaymentsCore.swift

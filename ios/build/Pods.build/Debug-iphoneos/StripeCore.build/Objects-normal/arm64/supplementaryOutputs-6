@@ -1,0 +1,48 @@
+"/Users/gabrielpalmyro/Desktop/programacao/neighborhood/ios/Pods/StripeCore/StripeCore/StripeCore/Source/API Bindings/StripeAPI.swift":
+  swift-dependencies: "/Users/gabrielpalmyro/Desktop/programacao/neighborhood/ios/build/Pods.build/Debug-iphoneos/StripeCore.build/Objects-normal/arm64/StripeAPI.swiftdeps"
+  object: "/Users/gabrielpalmyro/Desktop/programacao/neighborhood/ios/build/Pods.build/Debug-iphoneos/StripeCore.build/Objects-normal/arm64/StripeAPI.o"
+  diagnostics: "/Users/gabrielpalmyro/Desktop/programacao/neighborhood/ios/build/Pods.build/Debug-iphoneos/StripeCore.build/Objects-normal/arm64/StripeAPI.dia"
+  dependencies: "/Users/gabrielpalmyro/Desktop/programacao/neighborhood/ios/build/Pods.build/Debug-iphoneos/StripeCore.build/Objects-normal/arm64/StripeAPI.d"
+  const-values: "/Users/gabrielpalmyro/Desktop/programacao/neighborhood/ios/build/Pods.build/Debug-iphoneos/StripeCore.build/Objects-normal/arm64/StripeAPI.swiftconstvalues"
+"/Users/gabrielpalmyro/Desktop/programacao/neighborhood/ios/Pods/StripeCore/StripeCore/StripeCore/Source/Telemetry/STPTelemetryClient.swift":
+  diagnostics: "/Users/gabrielpalmyro/Desktop/programacao/neighborhood/ios/build/Pods.build/Debug-iphoneos/StripeCore.build/Objects-normal/arm64/STPTelemetryClient.dia"
+  const-values: "/Users/gabrielpalmyro/Desktop/programacao/neighborhood/ios/build/Pods.build/Debug-iphoneos/StripeCore.build/Objects-normal/arm64/STPTelemetryClient.swiftconstvalues"
+  swift-dependencies: "/Users/gabrielpalmyro/Desktop/programacao/neighborhood/ios/build/Pods.build/Debug-iphoneos/StripeCore.build/Objects-normal/arm64/STPTelemetryClient.swiftdeps"
+  object: "/Users/gabrielpalmyro/Desktop/programacao/neighborhood/ios/build/Pods.build/Debug-iphoneos/StripeCore.build/Objects-normal/arm64/STPTelemetryClient.o"
+  dependencies: "/Users/gabrielpalmyro/Desktop/programacao/neighborhood/ios/build/Pods.build/Debug-iphoneos/StripeCore.build/Objects-normal/arm64/STPTelemetryClient.d"
+"/Users/gabrielpalmyro/Desktop/programacao/neighborhood/ios/Pods/StripeCore/StripeCore/StripeCore/Source/Localization/String+Localized.swift":
+  object: "/Users/gabrielpalmyro/Desktop/programacao/neighborhood/ios/build/Pods.build/Debug-iphoneos/StripeCore.build/Objects-normal/arm64/String+Localized.o"
+  const-values: "/Users/gabrielpalmyro/Desktop/programacao/neighborhood/ios/build/Pods.build/Debug-iphoneos/StripeCore.build/Objects-normal/arm64/String+Localized.swiftconstvalues"
+  dependencies: "/Users/gabrielpalmyro/Desktop/programacao/neighborhood/ios/build/Pods.build/Debug-iphoneos/StripeCore.build/Objects-normal/arm64/String+Localized.d"
+  diagnostics: "/Users/gabrielpalmyro/Desktop/programacao/neighborhood/ios/build/Pods.build/Debug-iphoneos/StripeCore.build/Objects-normal/arm64/String+Localized.dia"
+  swift-dependencies: "/Users/gabrielpalmyro/Desktop/programacao/neighborhood/ios/build/Pods.build/Debug-iphoneos/StripeCore.build/Objects-normal/arm64/String+Localized.swiftdeps"
+"/Users/gabrielpalmyro/Desktop/programacao/neighborhood/ios/Pods/StripeCore/StripeCore/StripeCore/Source/API Bindings/STPMultipartFormDataPart.swift":
+  object: "/Users/gabrielpalmyro/Desktop/programacao/neighborhood/ios/build/Pods.build/Debug-iphoneos/StripeCore.build/Objects-normal/arm64/STPMultipartFormDataPart.o"
+  const-values: "/Users/gabrielpalmyro/Desktop/programacao/neighborhood/ios/build/Pods.build/Debug-iphoneos/StripeCore.build/Objects-normal/arm64/STPMultipartFormDataPart.swiftconstvalues"
+  diagnostics: "/Users/gabrielpalmyro/Desktop/programacao/neighborhood/ios/build/Pods.build/Debug-iphoneos/StripeCore.build/Objects-normal/arm64/STPMultipartFormDataPart.dia"
+  dependencies: "/Users/gabrielpalmyro/Desktop/programacao/neighborhood/ios/build/Pods.build/Debug-iphoneos/StripeCore.build/Objects-normal/arm64/STPMultipartFormDataPart.d"
+  swift-dependencies: "/Users/gabrielpalmyro/Desktop/programacao/neighborhood/ios/build/Pods.build/Debug-iphoneos/StripeCore.build/Objects-normal/arm64/STPMultipartFormDataPart.swiftdeps"
+"/Users/gabrielpalmyro/Desktop/programacao/neighborhood/ios/Pods/StripeCore/StripeCore/StripeCore/Source/API Bindings/StripeAPIConfiguration.swift":
+  dependencies: "/Users/gabrielpalmyro/Desktop/programacao/neighborhood/ios/build/Pods.build/Debug-iphoneos/StripeCore.build/Objects-normal/arm64/StripeAPIConfiguration.d"
+  swift-dependencies: "/Users/gabrielpalmyro/Desktop/programacao/neighborhood/ios/build/Pods.build/Debug-iphoneos/StripeCore.build/Objects-normal/arm64/StripeAPIConfiguration.swiftdeps"
+  const-values: "/Users/gabrielpalmyro/Desktop/programacao/neighborhood/ios/build/Pods.build/Debug-iphoneos/StripeCore.build/Objects-normal/arm64/StripeAPIConfiguration.swiftconstvalues"
+  object: "/Users/gabrielpalmyro/Desktop/programacao/neighborhood/ios/build/Pods.build/Debug-iphoneos/StripeCore.build/Objects-normal/arm64/StripeAPIConfiguration.o"
+  diagnostics: "/Users/gabrielpalmyro/Desktop/programacao/neighborhood/ios/build/Pods.build/Debug-iphoneos/StripeCore.build/Objects-normal/arm64/StripeAPIConfiguration.dia"
+"/Users/gabrielpalmyro/Desktop/programacao/neighborhood/ios/Pods/StripeCore/StripeCore/StripeCore/Source/Helpers/STPURLCallbackHandler.swift":
+  const-values: "/Users/gabrielpalmyro/Desktop/programacao/neighborhood/ios/build/Pods.build/Debug-iphoneos/StripeCore.build/Objects-normal/arm64/STPURLCallbackHandler.swiftconstvalues"
+  diagnostics: "/Users/gabrielpalmyro/Desktop/programacao/neighborhood/ios/build/Pods.build/Debug-iphoneos/StripeCore.build/Objects-normal/arm64/STPURLCallbackHandler.dia"
+  dependencies: "/Users/gabrielpalmyro/Desktop/programacao/neighborhood/ios/build/Pods.build/Debug-iphoneos/StripeCore.build/Objects-normal/arm64/STPURLCallbackHandler.d"
+  swift-dependencies: "/Users/gabrielpalmyro/Desktop/programacao/neighborhood/ios/build/Pods.build/Debug-iphoneos/StripeCore.build/Objects-normal/arm64/STPURLCallbackHandler.swiftdeps"
+  object: "/Users/gabrielpalmyro/Desktop/programacao/neighborhood/ios/build/Pods.build/Debug-iphoneos/StripeCore.build/Objects-normal/arm64/STPURLCallbackHandler.o"
+"/Users/gabrielpalmyro/Desktop/programacao/neighborhood/ios/Pods/StripeCore/StripeCore/StripeCore/Source/Helpers/STPNumericStringValidator.swift":
+  object: "/Users/gabrielpalmyro/Desktop/programacao/neighborhood/ios/build/Pods.build/Debug-iphoneos/StripeCore.build/Objects-normal/arm64/STPNumericStringValidator.o"
+  dependencies: "/Users/gabrielpalmyro/Desktop/programacao/neighborhood/ios/build/Pods.build/Debug-iphoneos/StripeCore.build/Objects-normal/arm64/STPNumericStringValidator.d"
+  const-values: "/Users/gabrielpalmyro/Desktop/programacao/neighborhood/ios/build/Pods.build/Debug-iphoneos/StripeCore.build/Objects-normal/arm64/STPNumericStringValidator.swiftconstvalues"
+  swift-dependencies: "/Users/gabrielpalmyro/Desktop/programacao/neighborhood/ios/build/Pods.build/Debug-iphoneos/StripeCore.build/Objects-normal/arm64/STPNumericStringValidator.swiftdeps"
+  diagnostics: "/Users/gabrielpalmyro/Desktop/programacao/neighborhood/ios/build/Pods.build/Debug-iphoneos/StripeCore.build/Objects-normal/arm64/STPNumericStringValidator.dia"
+"/Users/gabrielpalmyro/Desktop/programacao/neighborhood/ios/Pods/StripeCore/StripeCore/StripeCore/Source/Categories/String+StripeCore.swift":
+  diagnostics: "/Users/gabrielpalmyro/Desktop/programacao/neighborhood/ios/build/Pods.build/Debug-iphoneos/StripeCore.build/Objects-normal/arm64/String+StripeCore.dia"
+  const-values: "/Users/gabrielpalmyro/Desktop/programacao/neighborhood/ios/build/Pods.build/Debug-iphoneos/StripeCore.build/Objects-normal/arm64/String+StripeCore.swiftconstvalues"
+  dependencies: "/Users/gabrielpalmyro/Desktop/programacao/neighborhood/ios/build/Pods.build/Debug-iphoneos/StripeCore.build/Objects-normal/arm64/String+StripeCore.d"
+  swift-dependencies: "/Users/gabrielpalmyro/Desktop/programacao/neighborhood/ios/build/Pods.build/Debug-iphoneos/StripeCore.build/Objects-normal/arm64/String+StripeCore.swiftdeps"
+  object: "/Users/gabrielpalmyro/Desktop/programacao/neighborhood/ios/build/Pods.build/Debug-iphoneos/StripeCore.build/Objects-normal/arm64/String+StripeCore.o"

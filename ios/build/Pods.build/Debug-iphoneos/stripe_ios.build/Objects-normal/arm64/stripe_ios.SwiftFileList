@@ -1,0 +1,30 @@
+/Users/gabrielpalmyro/.pub-cache/hosted/pub.dev/stripe_ios-11.3.0/ios/Classes/Stripe\ Sdk/AddressSheet/AddressSheetUtils.swift
+/Users/gabrielpalmyro/.pub-cache/hosted/pub.dev/stripe_ios-11.3.0/ios/Classes/Stripe\ Sdk/AddressSheet/AddressSheetView.swift
+/Users/gabrielpalmyro/.pub-cache/hosted/pub.dev/stripe_ios-11.3.0/ios/Classes/AddToWalletButtonFactory.swift
+/Users/gabrielpalmyro/.pub-cache/hosted/pub.dev/stripe_ios-11.3.0/ios/Classes/Stripe\ Sdk/PushProvisioning/AddToWalletButtonView.swift
+/Users/gabrielpalmyro/.pub-cache/hosted/pub.dev/stripe_ios-11.3.0/ios/Classes/ApplePayButtonView.swift
+/Users/gabrielpalmyro/.pub-cache/hosted/pub.dev/stripe_ios-11.3.0/ios/Classes/Stripe\ Sdk/ApplePayUtils.swift
+/Users/gabrielpalmyro/.pub-cache/hosted/pub.dev/stripe_ios-11.3.0/ios/Classes/Stripe\ Sdk/ApplePayViewController.swift
+/Users/gabrielpalmyro/.pub-cache/hosted/pub.dev/stripe_ios-11.3.0/ios/Classes/AuBECSDebitFormFactory.swift
+/Users/gabrielpalmyro/.pub-cache/hosted/pub.dev/stripe_ios-11.3.0/ios/Classes/Stripe\ Sdk/AuBECSDebitFormView.swift
+/Users/gabrielpalmyro/.pub-cache/hosted/pub.dev/stripe_ios-11.3.0/ios/Classes/CardFieldFactory.swift
+/Users/gabrielpalmyro/.pub-cache/hosted/pub.dev/stripe_ios-11.3.0/ios/Classes/Stripe\ Sdk/CardFieldView.swift
+/Users/gabrielpalmyro/.pub-cache/hosted/pub.dev/stripe_ios-11.3.0/ios/Classes/CardFormFactory.swift
+/Users/gabrielpalmyro/.pub-cache/hosted/pub.dev/stripe_ios-11.3.0/ios/Classes/Stripe\ Sdk/CardFormView.swift
+/Users/gabrielpalmyro/.pub-cache/hosted/pub.dev/stripe_ios-11.3.0/ios/Classes/Stripe\ Sdk/CustomerSheet/CustomerSheetUtils.swift
+/Users/gabrielpalmyro/.pub-cache/hosted/pub.dev/stripe_ios-11.3.0/ios/Classes/Stripe\ Sdk/Errors.swift
+/Users/gabrielpalmyro/.pub-cache/hosted/pub.dev/stripe_ios-11.3.0/ios/Classes/Stripe\ Sdk/FinancialConnections.swift
+/Users/gabrielpalmyro/.pub-cache/hosted/pub.dev/stripe_ios-11.3.0/ios/Classes/Stripe\ Sdk/Mappers.swift
+/Users/gabrielpalmyro/.pub-cache/hosted/pub.dev/stripe_ios-11.3.0/ios/Classes/Stripe\ Sdk/PaymentMethodFactory.swift
+/Users/gabrielpalmyro/.pub-cache/hosted/pub.dev/stripe_ios-11.3.0/ios/Classes/Stripe\ Sdk/PaymentPassFinder.swift
+/Users/gabrielpalmyro/.pub-cache/hosted/pub.dev/stripe_ios-11.3.0/ios/Classes/Stripe\ Sdk/PaymentSheetAppearance.swift
+/Users/gabrielpalmyro/.pub-cache/hosted/pub.dev/stripe_ios-11.3.0/ios/Classes/Stripe\ Sdk/PushProvisioning/PushProvisioningUtils.swift
+/Users/gabrielpalmyro/.pub-cache/hosted/pub.dev/stripe_ios-11.3.0/ios/Classes/Bridge/RCTBridge.swift
+/Users/gabrielpalmyro/.pub-cache/hosted/pub.dev/stripe_ios-11.3.0/ios/Classes/Stripe\ Sdk/CustomerSheet/ReactNativeCustomerAdapter.swift
+/Users/gabrielpalmyro/.pub-cache/hosted/pub.dev/stripe_ios-11.3.0/ios/Classes/Stripe\ Sdk/StripeContainerView.swift
+/Users/gabrielpalmyro/.pub-cache/hosted/pub.dev/stripe_ios-11.3.0/ios/Classes/StripePlugin.swift
+/Users/gabrielpalmyro/.pub-cache/hosted/pub.dev/stripe_ios-11.3.0/ios/Classes/StripePlugin+PayPlugin.swift
+/Users/gabrielpalmyro/.pub-cache/hosted/pub.dev/stripe_ios-11.3.0/ios/Classes/Stripe\ Sdk/StripeSdk.swift
+/Users/gabrielpalmyro/.pub-cache/hosted/pub.dev/stripe_ios-11.3.0/ios/Classes/Stripe\ Sdk/StripeSdk+CustomerSheet.swift
+/Users/gabrielpalmyro/.pub-cache/hosted/pub.dev/stripe_ios-11.3.0/ios/Classes/Stripe\ Sdk/StripeSdk+PaymentSheet.swift
+/Users/gabrielpalmyro/.pub-cache/hosted/pub.dev/stripe_ios-11.3.0/ios/Classes/Stripe\ Sdk/UIColorExtension.swift

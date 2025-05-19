@@ -1,0 +1,3 @@
+class UpdateFollowingListEvent {
+  const UpdateFollowingListEvent();
+}

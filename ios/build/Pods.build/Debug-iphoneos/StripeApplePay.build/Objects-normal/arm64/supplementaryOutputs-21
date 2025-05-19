@@ -1,0 +1,18 @@
+"/Users/gabrielpalmyro/Desktop/programacao/neighborhood/ios/Pods/StripeApplePay/StripeApplePay/StripeApplePay/Source/PaymentsCore/API/Models/SetupIntentParams.swift":
+  dependencies: "/Users/gabrielpalmyro/Desktop/programacao/neighborhood/ios/build/Pods.build/Debug-iphoneos/StripeApplePay.build/Objects-normal/arm64/SetupIntentParams.d"
+  object: "/Users/gabrielpalmyro/Desktop/programacao/neighborhood/ios/build/Pods.build/Debug-iphoneos/StripeApplePay.build/Objects-normal/arm64/SetupIntentParams.o"
+  const-values: "/Users/gabrielpalmyro/Desktop/programacao/neighborhood/ios/build/Pods.build/Debug-iphoneos/StripeApplePay.build/Objects-normal/arm64/SetupIntentParams.swiftconstvalues"
+  diagnostics: "/Users/gabrielpalmyro/Desktop/programacao/neighborhood/ios/build/Pods.build/Debug-iphoneos/StripeApplePay.build/Objects-normal/arm64/SetupIntentParams.dia"
+  swift-dependencies: "/Users/gabrielpalmyro/Desktop/programacao/neighborhood/ios/build/Pods.build/Debug-iphoneos/StripeApplePay.build/Objects-normal/arm64/SetupIntentParams.swiftdeps"
+"/Users/gabrielpalmyro/Desktop/programacao/neighborhood/ios/Pods/StripeApplePay/StripeApplePay/StripeApplePay/Source/PaymentsCore/API/Models/ShippingDetails.swift":
+  object: "/Users/gabrielpalmyro/Desktop/programacao/neighborhood/ios/build/Pods.build/Debug-iphoneos/StripeApplePay.build/Objects-normal/arm64/ShippingDetails.o"
+  const-values: "/Users/gabrielpalmyro/Desktop/programacao/neighborhood/ios/build/Pods.build/Debug-iphoneos/StripeApplePay.build/Objects-normal/arm64/ShippingDetails.swiftconstvalues"
+  diagnostics: "/Users/gabrielpalmyro/Desktop/programacao/neighborhood/ios/build/Pods.build/Debug-iphoneos/StripeApplePay.build/Objects-normal/arm64/ShippingDetails.dia"
+  dependencies: "/Users/gabrielpalmyro/Desktop/programacao/neighborhood/ios/build/Pods.build/Debug-iphoneos/StripeApplePay.build/Objects-normal/arm64/ShippingDetails.d"
+  swift-dependencies: "/Users/gabrielpalmyro/Desktop/programacao/neighborhood/ios/build/Pods.build/Debug-iphoneos/StripeApplePay.build/Objects-normal/arm64/ShippingDetails.swiftdeps"
+"/Users/gabrielpalmyro/Desktop/programacao/neighborhood/ios/Pods/StripeApplePay/StripeApplePay/StripeApplePay/Source/PaymentsCore/API/SetupIntent+API.swift":
+  swift-dependencies: "/Users/gabrielpalmyro/Desktop/programacao/neighborhood/ios/build/Pods.build/Debug-iphoneos/StripeApplePay.build/Objects-normal/arm64/SetupIntent+API.swiftdeps"
+  dependencies: "/Users/gabrielpalmyro/Desktop/programacao/neighborhood/ios/build/Pods.build/Debug-iphoneos/StripeApplePay.build/Objects-normal/arm64/SetupIntent+API.d"
+  diagnostics: "/Users/gabrielpalmyro/Desktop/programacao/neighborhood/ios/build/Pods.build/Debug-iphoneos/StripeApplePay.build/Objects-normal/arm64/SetupIntent+API.dia"
+  const-values: "/Users/gabrielpalmyro/Desktop/programacao/neighborhood/ios/build/Pods.build/Debug-iphoneos/StripeApplePay.build/Objects-normal/arm64/SetupIntent+API.swiftconstvalues"
+  object: "/Users/gabrielpalmyro/Desktop/programacao/neighborhood/ios/build/Pods.build/Debug-iphoneos/StripeApplePay.build/Objects-normal/arm64/SetupIntent+API.o"

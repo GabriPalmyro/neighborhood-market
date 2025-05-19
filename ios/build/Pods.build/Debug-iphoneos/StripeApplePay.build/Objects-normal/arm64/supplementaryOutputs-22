@@ -1,0 +1,18 @@
+"/Users/gabrielpalmyro/Desktop/programacao/neighborhood/ios/Pods/StripeApplePay/StripeApplePay/StripeApplePay/Source/PaymentsCore/Analytics/STPAnalyticsClient+Payments.swift":
+  diagnostics: "/Users/gabrielpalmyro/Desktop/programacao/neighborhood/ios/build/Pods.build/Debug-iphoneos/StripeApplePay.build/Objects-normal/arm64/STPAnalyticsClient+Payments.dia"
+  dependencies: "/Users/gabrielpalmyro/Desktop/programacao/neighborhood/ios/build/Pods.build/Debug-iphoneos/StripeApplePay.build/Objects-normal/arm64/STPAnalyticsClient+Payments.d"
+  object: "/Users/gabrielpalmyro/Desktop/programacao/neighborhood/ios/build/Pods.build/Debug-iphoneos/StripeApplePay.build/Objects-normal/arm64/STPAnalyticsClient+Payments.o"
+  const-values: "/Users/gabrielpalmyro/Desktop/programacao/neighborhood/ios/build/Pods.build/Debug-iphoneos/StripeApplePay.build/Objects-normal/arm64/STPAnalyticsClient+Payments.swiftconstvalues"
+  swift-dependencies: "/Users/gabrielpalmyro/Desktop/programacao/neighborhood/ios/build/Pods.build/Debug-iphoneos/StripeApplePay.build/Objects-normal/arm64/STPAnalyticsClient+Payments.swiftdeps"
+"/Users/gabrielpalmyro/Desktop/programacao/neighborhood/ios/Pods/StripeApplePay/StripeApplePay/StripeApplePay/Source/ApplePayContext/STPAPIClient+ApplePay.swift":
+  const-values: "/Users/gabrielpalmyro/Desktop/programacao/neighborhood/ios/build/Pods.build/Debug-iphoneos/StripeApplePay.build/Objects-normal/arm64/STPAPIClient+ApplePay.swiftconstvalues"
+  dependencies: "/Users/gabrielpalmyro/Desktop/programacao/neighborhood/ios/build/Pods.build/Debug-iphoneos/StripeApplePay.build/Objects-normal/arm64/STPAPIClient+ApplePay.d"
+  object: "/Users/gabrielpalmyro/Desktop/programacao/neighborhood/ios/build/Pods.build/Debug-iphoneos/StripeApplePay.build/Objects-normal/arm64/STPAPIClient+ApplePay.o"
+  swift-dependencies: "/Users/gabrielpalmyro/Desktop/programacao/neighborhood/ios/build/Pods.build/Debug-iphoneos/StripeApplePay.build/Objects-normal/arm64/STPAPIClient+ApplePay.swiftdeps"
+  diagnostics: "/Users/gabrielpalmyro/Desktop/programacao/neighborhood/ios/build/Pods.build/Debug-iphoneos/StripeApplePay.build/Objects-normal/arm64/STPAPIClient+ApplePay.dia"
+"/Users/gabrielpalmyro/Desktop/programacao/neighborhood/ios/Pods/StripeApplePay/StripeApplePay/StripeApplePay/Source/PaymentsCore/Analytics/STPAnalyticsClient+PaymentsAPI.swift":
+  swift-dependencies: "/Users/gabrielpalmyro/Desktop/programacao/neighborhood/ios/build/Pods.build/Debug-iphoneos/StripeApplePay.build/Objects-normal/arm64/STPAnalyticsClient+PaymentsAPI.swiftdeps"
+  diagnostics: "/Users/gabrielpalmyro/Desktop/programacao/neighborhood/ios/build/Pods.build/Debug-iphoneos/StripeApplePay.build/Objects-normal/arm64/STPAnalyticsClient+PaymentsAPI.dia"
+  dependencies: "/Users/gabrielpalmyro/Desktop/programacao/neighborhood/ios/build/Pods.build/Debug-iphoneos/StripeApplePay.build/Objects-normal/arm64/STPAnalyticsClient+PaymentsAPI.d"
+  const-values: "/Users/gabrielpalmyro/Desktop/programacao/neighborhood/ios/build/Pods.build/Debug-iphoneos/StripeApplePay.build/Objects-normal/arm64/STPAnalyticsClient+PaymentsAPI.swiftconstvalues"
+  object: "/Users/gabrielpalmyro/Desktop/programacao/neighborhood/ios/build/Pods.build/Debug-iphoneos/StripeApplePay.build/Objects-normal/arm64/STPAnalyticsClient+PaymentsAPI.o"

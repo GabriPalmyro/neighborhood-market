@@ -1,0 +1,193 @@
+definitions:
+  publishing: &publishing
+    email:
+      recipients:
+        - gabripalmyro13579@gmail.com
+      notify:
+        success: true
+        failure: false
+
+workflows:
+  android-workflow:
+    name: 🧪 Android Beta Workflow
+    max_build_duration: 60
+    environment:
+      android_signing:
+        - Neighborhood Market App
+      groups:
+        - firebase_credentials
+      flutter: 3.24.3
+    inputs:
+      version:
+        description: ❔ Which version do you want to build?
+        type: string
+        default: "1.0.0"
+      changelog:
+        description: ❔ What's new in this version?
+        type: string
+        default: "Nothing new"
+      environment:
+        description: 🧪 Select the env type
+        type: choice
+        default: homolog
+        options:
+          - release
+          - homolog
+    scripts:
+      - name: ⚒️ Set up local.properties
+        script: |
+          source $BASH_ENV
+          echo "flutter.sdk=$HOME/programs/flutter" > "$CM_BUILD_DIR/android/local.properties"
+
+      - name: 🔎 Get Flutter packages
+        script: |
+          source $BASH_ENV
+          cd "$CM_BUILD_DIR"
+          flutter pub get
+
+      - name: 🆕 Generate release notes
+        script: |
+          source $BASH_ENV
+          echo "${{ inputs.changelog }}" | tee release_notes.txt
+
+      - name: 🔨🤖 Build ${{ inputs.environment }} Android Version
+        script: |
+          source $BASH_ENV
+
+          # Determine if the environment is production
+          IS_RELEASE=false
+          if [ "${{ inputs.environment }}" = "release" ]; then
+            IS_RELEASE=true
+          fi
+
+          # Calculate the version name and version number
+          DATE=$(date +'%Y%m%d')
+          LAST_TWO_DIGITS=$((RANDOM % 10))
+
+          if [ $IS_RELEASE = true ]; then
+            VERSION_NAME="${{ inputs.version }}"
+          else 
+            VERSION_NAME="${{ inputs.version }}.${DATE}${LAST_TWO_DIGITS}"
+          fi
+          VERSION_NUMBER=${DATE}${LAST_TWO_DIGITS}
+
+          echo "Building version: $VERSION_NAME and version number: $VERSION_NUMBER"
+          echo "Environment: ${{ inputs.environment }} (IS_RELEASE=$IS_RELEASE)"
+
+          # Generate APK
+          flutter build apk --release \
+            --build-name="$VERSION_NAME" \
+            --build-number=$VERSION_NUMBER \
+            --dart-define=IS_RELEASE=$IS_RELEASE
+
+    artifacts:
+      - $CM_BUILD_DIR/build/**/outputs/**/*.apk
+      - $CM_BUILD_DIR/build/**/outputs/**/mapping.txt
+      - $CM_BUILD_DIR/flutter_drive.log
+
+    publishing:
+      <<: *publishing
+      firebase:
+        firebase_service_account: $FIREBASE_SERVICE_ACCOUNT
+        android:
+          app_id: $APP_ID
+          groups:
+            - testers
+          artifact_type: "apk"
+
+  ios-testing-workflow:
+    name: 🍏 iOS Beta Workflow
+    max_build_duration: 60
+    integrations:
+      app_store_connect: MyClosetConnections API Key
+    environment:
+      ios_signing:
+        provisioning_profiles:
+          - MyClosetProfile
+        certificates:
+          - CodemagicDevelopment_Certificate
+        # distribution_type: app_store
+        # bundle_identifier: com.myclosetconnection.app
+      flutter: 3.24.3
+    inputs:
+      version:
+        description: ❔ Which version do you want to build?
+        type: string
+        default: "1.0.0"
+      changelog:
+        description: ❔ What's new in this version?
+        type: string
+        default: "Nothing new"
+      environment:
+        description: 🧪 Select the env type
+        type: choice
+        default: homolog
+        options:
+          - release
+          - homolog
+    scripts:
+      # - script: keychain initialize
+      # - script: keychain add-certificates
+
+      - name: 📐 Set up code signing settings on Xcode project
+        script: xcode-project use-profiles
+
+      - name: ⚒️ Set up local.properties
+        script: |
+          source $BASH_ENV
+          echo "flutter.sdk=$HOME/programs/flutter" > "$CM_BUILD_DIR/android/local.properties"
+
+      - name: 🔎 Get Flutter packages
+        script: |
+          source $BASH_ENV
+          cd "$CM_BUILD_DIR"
+          flutter pub get
+
+      - name: 🚀 Install pods
+        script: |
+          find . -name "Podfile" -execdir pod install \;
+
+      - name: 🆕 Generate release notes
+        script: |
+          source $BASH_ENV
+          echo "${{ inputs.changelog }}" | tee release_notes.txt
+
+      - name: 🔨 Build ${{ inputs.environment }} iOS Version
+        script: |
+          source $BASH_ENV
+
+          # Determine if the environment is production
+          IS_RELEASE=false
+          if [ "${{ inputs.environment }}" = "production" ]; then
+            IS_RELEASE=true
+          fi
+
+          # Calculate the version name and version number
+          DATE=$(date +'%Y%m%d')
+          LAST_TWO_DIGITS=$((RANDOM % 10))
+
+          VERSION_NAME="${{ inputs.version }}"
+          VERSION_NUMBER=${DATE}${LAST_TWO_DIGITS}
+
+          echo "Building version: $VERSION_NAME and version number: $VERSION_NUMBER"
+          echo "Environment: ${{ inputs.environment }} (IS_RELEASE=$IS_RELEASE)"
+
+          cd "$CM_BUILD_DIR"
+          # Generate IPA
+          flutter build ipa --release \
+          --build-name="$VERSION_NAME" \
+          --build-number=$VERSION_NUMBER \
+          --dart-define=IS_RELEASE=$IS_RELEASE \
+          --export-options-plist=/Users/builder/export_options.plist
+
+    artifacts:
+      - $CM_BUILD_DIR/build/ios/ipa/*.ipa
+      - $CM_BUILD_DIR/tmp/xcodebuild_logs/*.log
+      - $CM_BUILD_DIR/flutter_drive.log
+
+    publishing:
+      <<: *publishing
+      app_store_connect:
+        auth: integration
+        submit_to_testflight: true
+        submit_to_app_store: false

@@ -1,0 +1,220 @@
+/Users/gabrielpalmyro/Desktop/programacao/neighborhood/ios/Pods/StripePayments/StripePayments/StripePayments/Source/Internal/Analytics/Analytic+Payments.swift
+/Users/gabrielpalmyro/Desktop/programacao/neighborhood/ios/Pods/StripePayments/StripePayments/StripePayments/Source/Internal/API\ Bindings/APIRequest.swift
+/Users/gabrielpalmyro/Desktop/programacao/neighborhood/ios/Pods/StripePayments/StripePayments/StripePayments/Source/Internal/Helpers/ConnectionsSDKAvailability.swift
+/Users/gabrielpalmyro/Desktop/programacao/neighborhood/ios/Pods/StripePayments/StripePayments/StripePayments/Source/Captcha/DispatchQueue+Throttle.swift
+/Users/gabrielpalmyro/Desktop/programacao/neighborhood/ios/Pods/StripePayments/StripePayments/StripePayments/Source/Categories/Enums+CustomStringConvertible.swift
+/Users/gabrielpalmyro/Desktop/programacao/neighborhood/ios/Pods/StripePayments/StripePayments/StripePayments/Source/Captcha/HCaptcha.swift
+/Users/gabrielpalmyro/Desktop/programacao/neighborhood/ios/Pods/StripePayments/StripePayments/StripePayments/Source/Captcha/HCaptchaConfig.swift
+/Users/gabrielpalmyro/Desktop/programacao/neighborhood/ios/Pods/StripePayments/StripePayments/StripePayments/Source/Captcha/HCaptchaDebugInfo.swift
+/Users/gabrielpalmyro/Desktop/programacao/neighborhood/ios/Pods/StripePayments/StripePayments/StripePayments/Source/Captcha/HCaptchaDecoder.swift
+/Users/gabrielpalmyro/Desktop/programacao/neighborhood/ios/Pods/StripePayments/StripePayments/StripePayments/Source/Captcha/HCaptchaError.swift
+/Users/gabrielpalmyro/Desktop/programacao/neighborhood/ios/Pods/StripePayments/StripePayments/StripePayments/Source/Captcha/HCaptchaEvent.swift
+/Users/gabrielpalmyro/Desktop/programacao/neighborhood/ios/Pods/StripePayments/StripePayments/StripePayments/Source/Captcha/HCaptchaHtml.swift
+/Users/gabrielpalmyro/Desktop/programacao/neighborhood/ios/Pods/StripePayments/StripePayments/StripePayments/Source/Captcha/HCaptchaLog.swift
+/Users/gabrielpalmyro/Desktop/programacao/neighborhood/ios/Pods/StripePayments/StripePayments/StripePayments/Source/Captcha/HCaptchaResult.swift
+/Users/gabrielpalmyro/Desktop/programacao/neighborhood/ios/Pods/StripePayments/StripePayments/StripePayments/Source/Captcha/HCaptchaURLOpener.swift
+/Users/gabrielpalmyro/Desktop/programacao/neighborhood/ios/Pods/StripePayments/StripePayments/StripePayments/Source/Captcha/HCaptchaWebViewManager.swift
+/Users/gabrielpalmyro/Desktop/programacao/neighborhood/ios/Pods/StripePayments/StripePayments/StripePayments/Source/Captcha/HCaptchaWebViewManager+WKNavigationDelegate.swift
+/Users/gabrielpalmyro/Desktop/programacao/neighborhood/ios/Pods/StripePayments/StripePayments/StripePayments/Source/API\ Bindings/Models/ACH/LinkAccountSession.swift
+/Users/gabrielpalmyro/Desktop/programacao/neighborhood/ios/Pods/StripePayments/StripePayments/StripePayments/Source/API\ Bindings/Models/Shared/LinkSettings.swift
+/Users/gabrielpalmyro/Desktop/programacao/neighborhood/ios/Pods/StripePayments/StripePayments/StripePayments/Source/Internal/Categories/NSArray+Stripe.swift
+/Users/gabrielpalmyro/Desktop/programacao/neighborhood/ios/Pods/StripePayments/StripePayments/StripePayments/Source/Internal/Categories/NSDecimalNumber+Stripe_Currency.swift
+/Users/gabrielpalmyro/Desktop/programacao/neighborhood/ios/Pods/StripePayments/StripePayments/StripePayments/Source/Internal/Categories/NSDictionary+Stripe.swift
+/Users/gabrielpalmyro/Desktop/programacao/neighborhood/ios/Pods/StripePayments/StripePayments/StripePayments/Source/Internal/Categories/NSString+Stripe.swift
+/Users/gabrielpalmyro/Desktop/programacao/neighborhood/ios/Pods/StripePayments/StripePayments/StripePayments/Source/Internal/API\ Bindings/STP3DS2AuthenticateResponse.swift
+/Users/gabrielpalmyro/Desktop/programacao/neighborhood/ios/Pods/StripePayments/StripePayments/StripePayments/Source/API\ Bindings/Models/STPAddress.swift
+/Users/gabrielpalmyro/Desktop/programacao/neighborhood/ios/Pods/StripePayments/StripePayments/StripePayments/Source/Internal/Analytics/STPAnalyticsClient+Payments.swift
+/Users/gabrielpalmyro/Desktop/programacao/neighborhood/ios/Pods/StripePayments/StripePayments/StripePayments/Source/PaymentHandler/STPAnalyticsClient+STPPaymentHandler.swift
+/Users/gabrielpalmyro/Desktop/programacao/neighborhood/ios/Pods/StripePayments/StripePayments/StripePayments/Source/API\ Bindings/STPAPIClient+ApplePay.swift
+/Users/gabrielpalmyro/Desktop/programacao/neighborhood/ios/Pods/StripePayments/StripePayments/StripePayments/Source/API\ Bindings/STPAPIClient+LinkAccountSession.swift
+/Users/gabrielpalmyro/Desktop/programacao/neighborhood/ios/Pods/StripePayments/StripePayments/StripePayments/Source/API\ Bindings/STPAPIClient+Payments.swift
+/Users/gabrielpalmyro/Desktop/programacao/neighborhood/ios/Pods/StripePayments/StripePayments/StripePayments/Source/Internal/Categories/STPAPIClient+PaymentsCore.swift
+/Users/gabrielpalmyro/Desktop/programacao/neighborhood/ios/Pods/StripePayments/StripePayments/StripePayments/Source/API\ Bindings/STPAPIClient+Radar.swift
+/Users/gabrielpalmyro/Desktop/programacao/neighborhood/ios/Pods/StripePayments/StripePayments/StripePayments/Source/API\ Bindings/Models/STPAPIResponseDecodable.swift
+/Users/gabrielpalmyro/Desktop/programacao/neighborhood/ios/Pods/StripePayments/StripePayments/StripePayments/Source/PaymentHandler/STPAuthenticationContext.swift
+/Users/gabrielpalmyro/Desktop/programacao/neighborhood/ios/Pods/StripePayments/StripePayments/StripePayments/Source/API\ Bindings/Models/Sources/Types/STPBankAccount.swift
+/Users/gabrielpalmyro/Desktop/programacao/neighborhood/ios/Pods/StripePayments/StripePayments/StripePayments/Source/Helpers/STPBankAccountCollector.swift
+/Users/gabrielpalmyro/Desktop/programacao/neighborhood/ios/Pods/StripePayments/StripePayments/StripePayments/Source/API\ Bindings/Models/Sources/Types/STPBankAccountParams.swift
+/Users/gabrielpalmyro/Desktop/programacao/neighborhood/ios/Pods/StripePayments/StripePayments/StripePayments/Source/Helpers/STPBINController.swift
+/Users/gabrielpalmyro/Desktop/programacao/neighborhood/ios/Pods/StripePayments/StripePayments/StripePayments/Source/Helpers/STPBlocks.swift
+/Users/gabrielpalmyro/Desktop/programacao/neighborhood/ios/Pods/StripePayments/StripePayments/StripePayments/Source/API\ Bindings/Models/Sources/Types/STPCard.swift
+/Users/gabrielpalmyro/Desktop/programacao/neighborhood/ios/Pods/StripePayments/StripePayments/StripePayments/Source/API\ Bindings/Models/STPCardBrand.swift
+/Users/gabrielpalmyro/Desktop/programacao/neighborhood/ios/Pods/StripePayments/StripePayments/StripePayments/Source/API\ Bindings/Models/Sources/Types/STPCardParams.swift
+/Users/gabrielpalmyro/Desktop/programacao/neighborhood/ios/Pods/StripePayments/StripePayments/StripePayments/Source/Helpers/STPCardValidator.swift
+/Users/gabrielpalmyro/Desktop/programacao/neighborhood/ios/Pods/StripePayments/StripePayments/StripePayments/Source/API\ Bindings/Models/ACH/STPCollectBankAccountParams.swift
+/Users/gabrielpalmyro/Desktop/programacao/neighborhood/ios/Pods/StripePayments/StripePayments/StripePayments/Source/API\ Bindings/Models/PaymentIntents/STPConfirmAlipayOptions.swift
+/Users/gabrielpalmyro/Desktop/programacao/neighborhood/ios/Pods/StripePayments/StripePayments/StripePayments/Source/API\ Bindings/Models/PaymentIntents/STPConfirmBLIKOptions.swift
+/Users/gabrielpalmyro/Desktop/programacao/neighborhood/ios/Pods/StripePayments/StripePayments/StripePayments/Source/API\ Bindings/Models/PaymentIntents/STPConfirmCardOptions.swift
+/Users/gabrielpalmyro/Desktop/programacao/neighborhood/ios/Pods/StripePayments/StripePayments/StripePayments/Source/API\ Bindings/Models/PaymentIntents/STPConfirmKonbiniOptions.swift
+/Users/gabrielpalmyro/Desktop/programacao/neighborhood/ios/Pods/StripePayments/StripePayments/StripePayments/Source/API\ Bindings/Models/PaymentIntents/STPConfirmPaymentMethodOptions.swift
+/Users/gabrielpalmyro/Desktop/programacao/neighborhood/ios/Pods/StripePayments/StripePayments/StripePayments/Source/API\ Bindings/Models/PaymentIntents/STPConfirmUSBankAccountOptions.swift
+/Users/gabrielpalmyro/Desktop/programacao/neighborhood/ios/Pods/StripePayments/StripePayments/StripePayments/Source/API\ Bindings/Models/PaymentIntents/STPConfirmWeChatPayOptions.swift
+/Users/gabrielpalmyro/Desktop/programacao/neighborhood/ios/Pods/StripePayments/StripePayments/StripePayments/Source/API\ Bindings/Models/STPConnectAccountAddress.swift
+/Users/gabrielpalmyro/Desktop/programacao/neighborhood/ios/Pods/StripePayments/StripePayments/StripePayments/Source/API\ Bindings/Models/STPConnectAccountCompanyParams.swift
+/Users/gabrielpalmyro/Desktop/programacao/neighborhood/ios/Pods/StripePayments/StripePayments/StripePayments/Source/API\ Bindings/Models/STPConnectAccountIndividualParams.swift
+/Users/gabrielpalmyro/Desktop/programacao/neighborhood/ios/Pods/StripePayments/StripePayments/StripePayments/Source/API\ Bindings/Models/STPConnectAccountParams.swift
+/Users/gabrielpalmyro/Desktop/programacao/neighborhood/ios/Pods/StripePayments/StripePayments/StripePayments/Source/API\ Bindings/Models/STPContactField.swift
+/Users/gabrielpalmyro/Desktop/programacao/neighborhood/ios/Pods/StripePayments/StripePayments/StripePayments/Source/API\ Bindings/Models/STPCustomer.swift
+/Users/gabrielpalmyro/Desktop/programacao/neighborhood/ios/Pods/StripePayments/StripePayments/StripePayments/Source/Internal/API\ Bindings/STPEmptyStripeResponse.swift
+/Users/gabrielpalmyro/Desktop/programacao/neighborhood/ios/Pods/StripePayments/StripePayments/StripePayments/Source/API\ Bindings/Models/STPFile.swift
+/Users/gabrielpalmyro/Desktop/programacao/neighborhood/ios/Pods/StripePayments/StripePayments/StripePayments/Source/API\ Bindings/Models/STPFormEncodable.swift
+/Users/gabrielpalmyro/Desktop/programacao/neighborhood/ios/Pods/StripePayments/StripePayments/StripePayments/Source/Internal/API\ Bindings/STPFormEncoder.swift
+/Users/gabrielpalmyro/Desktop/programacao/neighborhood/ios/Pods/StripePayments/StripePayments/StripePayments/Source/API\ Bindings/Models/STPFPXBankBrand.swift
+/Users/gabrielpalmyro/Desktop/programacao/neighborhood/ios/Pods/StripePayments/StripePayments/StripePayments/Source/API\ Bindings/Models/STPiDEALBank.swift
+/Users/gabrielpalmyro/Desktop/programacao/neighborhood/ios/Pods/StripePayments/StripePayments/StripePayments/Source/API\ Bindings/Models/Shared/STPIntentAction.swift
+/Users/gabrielpalmyro/Desktop/programacao/neighborhood/ios/Pods/StripePayments/StripePayments/StripePayments/Source/API\ Bindings/Models/Shared/STPIntentActionAlipayHandleRedirect.swift
+/Users/gabrielpalmyro/Desktop/programacao/neighborhood/ios/Pods/StripePayments/StripePayments/StripePayments/Source/API\ Bindings/Models/Shared/STPIntentActionBoletoDisplayDetails.swift
+/Users/gabrielpalmyro/Desktop/programacao/neighborhood/ios/Pods/StripePayments/StripePayments/StripePayments/Source/API\ Bindings/Models/Shared/STPIntentActionCashAppRedirectToApp.swift
+/Users/gabrielpalmyro/Desktop/programacao/neighborhood/ios/Pods/StripePayments/StripePayments/StripePayments/Source/API\ Bindings/Models/Shared/STPIntentActionKonbiniDisplayDetails.swift
+/Users/gabrielpalmyro/Desktop/programacao/neighborhood/ios/Pods/StripePayments/StripePayments/StripePayments/Source/API\ Bindings/Models/Shared/STPIntentActionMultibancoDisplayDetails.swift
+/Users/gabrielpalmyro/Desktop/programacao/neighborhood/ios/Pods/StripePayments/StripePayments/StripePayments/Source/API\ Bindings/Models/Shared/STPIntentActionOXXODisplayDetails.swift
+/Users/gabrielpalmyro/Desktop/programacao/neighborhood/ios/Pods/StripePayments/StripePayments/StripePayments/Source/API\ Bindings/Models/Shared/STPIntentActionPayNowDisplayQrCode.swift
+/Users/gabrielpalmyro/Desktop/programacao/neighborhood/ios/Pods/StripePayments/StripePayments/StripePayments/Source/API\ Bindings/Models/Shared/STPIntentActionPromptPayDisplayQrCode.swift
+/Users/gabrielpalmyro/Desktop/programacao/neighborhood/ios/Pods/StripePayments/StripePayments/StripePayments/Source/API\ Bindings/Models/Shared/STPIntentActionRedirectToURL.swift
+/Users/gabrielpalmyro/Desktop/programacao/neighborhood/ios/Pods/StripePayments/StripePayments/StripePayments/Source/API\ Bindings/Models/Shared/STPIntentActionSwishHandleRedirect.swift
+/Users/gabrielpalmyro/Desktop/programacao/neighborhood/ios/Pods/StripePayments/StripePayments/StripePayments/Source/Internal/API\ Bindings/STPIntentActionUseStripeSDK.swift
+/Users/gabrielpalmyro/Desktop/programacao/neighborhood/ios/Pods/StripePayments/StripePayments/StripePayments/Source/API\ Bindings/Models/Shared/STPIntentActionVerifyWithMicrodeposits.swift
+/Users/gabrielpalmyro/Desktop/programacao/neighborhood/ios/Pods/StripePayments/StripePayments/StripePayments/Source/API\ Bindings/Models/Shared/STPIntentActionWeChatPayRedirectToApp.swift
+/Users/gabrielpalmyro/Desktop/programacao/neighborhood/ios/Pods/StripePayments/StripePayments/StripePayments/Source/Internal/API\ Bindings/STPInternalAPIResponseDecodable.swift
+/Users/gabrielpalmyro/Desktop/programacao/neighborhood/ios/Pods/StripePayments/StripePayments/StripePayments/Source/API\ Bindings/Models/STPIssuingCardPin.swift
+/Users/gabrielpalmyro/Desktop/programacao/neighborhood/ios/Pods/StripePayments/StripePayments/StripePayments/Source/API\ Bindings/Models/Sources/Types/STPKlarnaLineItem.swift
+/Users/gabrielpalmyro/Desktop/programacao/neighborhood/ios/Pods/StripePayments/StripePayments/StripePayments/Source/Helpers/STPLocalizedString.swift
+/Users/gabrielpalmyro/Desktop/programacao/neighborhood/ios/Pods/StripePayments/StripePayments/StripePayments/Source/API\ Bindings/Models/Shared/STPMandateCustomerAcceptanceParams.swift
+/Users/gabrielpalmyro/Desktop/programacao/neighborhood/ios/Pods/StripePayments/StripePayments/StripePayments/Source/API\ Bindings/Models/Shared/STPMandateDataParams.swift
+/Users/gabrielpalmyro/Desktop/programacao/neighborhood/ios/Pods/StripePayments/StripePayments/StripePayments/Source/API\ Bindings/Models/Shared/STPMandateOnlineParams.swift
+/Users/gabrielpalmyro/Desktop/programacao/neighborhood/ios/Pods/StripePayments/StripePayments/StripePayments/Source/Helpers/STPPaymentConfirmation+SwiftUI.swift
+/Users/gabrielpalmyro/Desktop/programacao/neighborhood/ios/Pods/StripePayments/StripePayments/StripePayments/Source/PaymentHandler/STPPaymentHandler.swift
+/Users/gabrielpalmyro/Desktop/programacao/neighborhood/ios/Pods/StripePayments/StripePayments/StripePayments/Source/Internal/STPPaymentHandlerActionParams.swift
+/Users/gabrielpalmyro/Desktop/programacao/neighborhood/ios/Pods/StripePayments/StripePayments/StripePayments/Source/API\ Bindings/Models/PaymentIntents/STPPaymentIntent.swift
+/Users/gabrielpalmyro/Desktop/programacao/neighborhood/ios/Pods/StripePayments/StripePayments/StripePayments/Source/API\ Bindings/Models/PaymentIntents/STPPaymentIntentAction.swift
+/Users/gabrielpalmyro/Desktop/programacao/neighborhood/ios/Pods/StripePayments/StripePayments/StripePayments/Source/API\ Bindings/Models/PaymentIntents/STPPaymentIntentActionRedirectToURL.swift
+/Users/gabrielpalmyro/Desktop/programacao/neighborhood/ios/Pods/StripePayments/StripePayments/StripePayments/Source/API\ Bindings/Models/PaymentIntents/STPPaymentIntentEnums.swift
+/Users/gabrielpalmyro/Desktop/programacao/neighborhood/ios/Pods/StripePayments/StripePayments/StripePayments/Source/API\ Bindings/Models/PaymentIntents/STPPaymentIntentLastPaymentError.swift
+/Users/gabrielpalmyro/Desktop/programacao/neighborhood/ios/Pods/StripePayments/StripePayments/StripePayments/Source/API\ Bindings/Models/PaymentIntents/STPPaymentIntentParams.swift
+/Users/gabrielpalmyro/Desktop/programacao/neighborhood/ios/Pods/StripePayments/StripePayments/StripePayments/Source/API\ Bindings/Models/PaymentIntents/STPPaymentIntentShippingDetails.swift
+/Users/gabrielpalmyro/Desktop/programacao/neighborhood/ios/Pods/StripePayments/StripePayments/StripePayments/Source/API\ Bindings/Models/PaymentIntents/STPPaymentIntentShippingDetailsAddress.swift
+/Users/gabrielpalmyro/Desktop/programacao/neighborhood/ios/Pods/StripePayments/StripePayments/StripePayments/Source/API\ Bindings/Models/PaymentIntents/STPPaymentIntentShippingDetailsAddressParams.swift
+/Users/gabrielpalmyro/Desktop/programacao/neighborhood/ios/Pods/StripePayments/StripePayments/StripePayments/Source/API\ Bindings/Models/PaymentIntents/STPPaymentIntentShippingDetailsParams.swift
+/Users/gabrielpalmyro/Desktop/programacao/neighborhood/ios/Pods/StripePayments/StripePayments/StripePayments/Source/API\ Bindings/Models/PaymentIntents/STPPaymentIntentSourceAction.swift
+/Users/gabrielpalmyro/Desktop/programacao/neighborhood/ios/Pods/StripePayments/StripePayments/StripePayments/Source/API\ Bindings/Models/PaymentIntents/STPPaymentIntentSourceActionAuthorizeWithURL.swift
+/Users/gabrielpalmyro/Desktop/programacao/neighborhood/ios/Pods/StripePayments/StripePayments/StripePayments/Source/API\ Bindings/Models/PaymentMethods/STPPaymentMethod.swift
+/Users/gabrielpalmyro/Desktop/programacao/neighborhood/ios/Pods/StripePayments/StripePayments/StripePayments/Source/API\ Bindings/Models/PaymentMethods/STPPaymentMethodAddress.swift
+/Users/gabrielpalmyro/Desktop/programacao/neighborhood/ios/Pods/StripePayments/StripePayments/StripePayments/Source/API\ Bindings/Models/PaymentMethods/Types/STPPaymentMethodAffirm.swift
+/Users/gabrielpalmyro/Desktop/programacao/neighborhood/ios/Pods/StripePayments/StripePayments/StripePayments/Source/API\ Bindings/Models/PaymentMethods/Types/STPPaymentMethodAffirmParams.swift
+/Users/gabrielpalmyro/Desktop/programacao/neighborhood/ios/Pods/StripePayments/StripePayments/StripePayments/Source/API\ Bindings/Models/PaymentMethods/Types/STPPaymentMethodAfterpayClearpay.swift
+/Users/gabrielpalmyro/Desktop/programacao/neighborhood/ios/Pods/StripePayments/StripePayments/StripePayments/Source/API\ Bindings/Models/PaymentMethods/Types/STPPaymentMethodAfterpayClearpayParams.swift
+/Users/gabrielpalmyro/Desktop/programacao/neighborhood/ios/Pods/StripePayments/StripePayments/StripePayments/Source/API\ Bindings/Models/PaymentMethods/Types/STPPaymentMethodAlipay.swift
+/Users/gabrielpalmyro/Desktop/programacao/neighborhood/ios/Pods/StripePayments/StripePayments/StripePayments/Source/API\ Bindings/Models/PaymentMethods/Types/STPPaymentMethodAlipayParams.swift
+/Users/gabrielpalmyro/Desktop/programacao/neighborhood/ios/Pods/StripePayments/StripePayments/StripePayments/Source/API\ Bindings/Models/PaymentMethods/STPPaymentMethodAllowRedisplay.swift
+/Users/gabrielpalmyro/Desktop/programacao/neighborhood/ios/Pods/StripePayments/StripePayments/StripePayments/Source/API\ Bindings/Models/PaymentMethods/Types/STPPaymentMethodAlma.swift
+/Users/gabrielpalmyro/Desktop/programacao/neighborhood/ios/Pods/StripePayments/StripePayments/StripePayments/Source/API\ Bindings/Models/PaymentMethods/Types/STPPaymentMethodAlmaParams.swift
+/Users/gabrielpalmyro/Desktop/programacao/neighborhood/ios/Pods/StripePayments/StripePayments/StripePayments/Source/API\ Bindings/Models/PaymentMethods/Types/STPPaymentMethodAmazonPay.swift
+/Users/gabrielpalmyro/Desktop/programacao/neighborhood/ios/Pods/StripePayments/StripePayments/StripePayments/Source/API\ Bindings/Models/PaymentMethods/Types/STPPaymentMethodAmazonPayParams.swift
+/Users/gabrielpalmyro/Desktop/programacao/neighborhood/ios/Pods/StripePayments/StripePayments/StripePayments/Source/API\ Bindings/Models/PaymentMethods/Types/STPPaymentMethodAUBECSDebit.swift
+/Users/gabrielpalmyro/Desktop/programacao/neighborhood/ios/Pods/StripePayments/StripePayments/StripePayments/Source/API\ Bindings/Models/PaymentMethods/Types/STPPaymentMethodAUBECSDebitParams.swift
+/Users/gabrielpalmyro/Desktop/programacao/neighborhood/ios/Pods/StripePayments/StripePayments/StripePayments/Source/API\ Bindings/Models/PaymentMethods/Types/STPPaymentMethodBacsDebit.swift
+/Users/gabrielpalmyro/Desktop/programacao/neighborhood/ios/Pods/StripePayments/StripePayments/StripePayments/Source/API\ Bindings/Models/PaymentMethods/Types/STPPaymentMethodBacsDebitParams.swift
+/Users/gabrielpalmyro/Desktop/programacao/neighborhood/ios/Pods/StripePayments/StripePayments/StripePayments/Source/API\ Bindings/Models/PaymentMethods/Types/STPPaymentMethodBancontact.swift
+/Users/gabrielpalmyro/Desktop/programacao/neighborhood/ios/Pods/StripePayments/StripePayments/StripePayments/Source/API\ Bindings/Models/PaymentMethods/Types/STPPaymentMethodBancontactParams.swift
+/Users/gabrielpalmyro/Desktop/programacao/neighborhood/ios/Pods/StripePayments/StripePayments/StripePayments/Source/API\ Bindings/Models/PaymentMethods/Types/STPPaymentMethodBillie.swift
+/Users/gabrielpalmyro/Desktop/programacao/neighborhood/ios/Pods/StripePayments/StripePayments/StripePayments/Source/API\ Bindings/Models/PaymentMethods/Types/STPPaymentMethodBillieParams.swift
+/Users/gabrielpalmyro/Desktop/programacao/neighborhood/ios/Pods/StripePayments/StripePayments/StripePayments/Source/API\ Bindings/Models/PaymentMethods/STPPaymentMethodBillingDetails.swift
+/Users/gabrielpalmyro/Desktop/programacao/neighborhood/ios/Pods/StripePayments/StripePayments/StripePayments/Source/API\ Bindings/Models/PaymentMethods/Types/STPPaymentMethodBLIK.swift
+/Users/gabrielpalmyro/Desktop/programacao/neighborhood/ios/Pods/StripePayments/StripePayments/StripePayments/Source/API\ Bindings/Models/PaymentMethods/Types/STPPaymentMethodBLIKParams.swift
+/Users/gabrielpalmyro/Desktop/programacao/neighborhood/ios/Pods/StripePayments/StripePayments/StripePayments/Source/API\ Bindings/Models/PaymentMethods/Types/STPPaymentMethodBoleto.swift
+/Users/gabrielpalmyro/Desktop/programacao/neighborhood/ios/Pods/StripePayments/StripePayments/StripePayments/Source/API\ Bindings/Models/PaymentMethods/Types/STPPaymentMethodBoletoParams.swift
+/Users/gabrielpalmyro/Desktop/programacao/neighborhood/ios/Pods/StripePayments/StripePayments/StripePayments/Source/API\ Bindings/Models/PaymentMethods/Types/STPPaymentMethodCard.swift
+/Users/gabrielpalmyro/Desktop/programacao/neighborhood/ios/Pods/StripePayments/StripePayments/StripePayments/Source/API\ Bindings/Models/PaymentMethods/Types/STPPaymentMethodCardChecks.swift
+/Users/gabrielpalmyro/Desktop/programacao/neighborhood/ios/Pods/StripePayments/StripePayments/StripePayments/Source/API\ Bindings/Models/PaymentMethods/Types/STPPaymentMethodCardNetworks.swift
+/Users/gabrielpalmyro/Desktop/programacao/neighborhood/ios/Pods/StripePayments/StripePayments/StripePayments/Source/API\ Bindings/Models/PaymentMethods/Types/STPPaymentMethodCardNetworksParams.swift
+/Users/gabrielpalmyro/Desktop/programacao/neighborhood/ios/Pods/StripePayments/StripePayments/StripePayments/Source/API\ Bindings/Models/PaymentMethods/Types/STPPaymentMethodCardParams.swift
+/Users/gabrielpalmyro/Desktop/programacao/neighborhood/ios/Pods/StripePayments/StripePayments/StripePayments/Source/API\ Bindings/Models/PaymentMethods/Types/STPPaymentMethodCardPresent.swift
+/Users/gabrielpalmyro/Desktop/programacao/neighborhood/ios/Pods/StripePayments/StripePayments/StripePayments/Source/API\ Bindings/Models/PaymentMethods/Types/STPPaymentMethodCardWallet.swift
+/Users/gabrielpalmyro/Desktop/programacao/neighborhood/ios/Pods/StripePayments/StripePayments/StripePayments/Source/API\ Bindings/Models/PaymentMethods/Types/STPPaymentMethodCardWalletMasterpass.swift
+/Users/gabrielpalmyro/Desktop/programacao/neighborhood/ios/Pods/StripePayments/StripePayments/StripePayments/Source/API\ Bindings/Models/PaymentMethods/Types/STPPaymentMethodCardWalletVisaCheckout.swift
+/Users/gabrielpalmyro/Desktop/programacao/neighborhood/ios/Pods/StripePayments/StripePayments/StripePayments/Source/API\ Bindings/Models/PaymentMethods/Types/STPPaymentMethodCashApp.swift
+/Users/gabrielpalmyro/Desktop/programacao/neighborhood/ios/Pods/StripePayments/StripePayments/StripePayments/Source/API\ Bindings/Models/PaymentMethods/Types/STPPaymentMethodCashAppParams.swift
+/Users/gabrielpalmyro/Desktop/programacao/neighborhood/ios/Pods/StripePayments/StripePayments/StripePayments/Source/API\ Bindings/Models/PaymentMethods/STPPaymentMethodEnums.swift
+/Users/gabrielpalmyro/Desktop/programacao/neighborhood/ios/Pods/StripePayments/StripePayments/StripePayments/Source/API\ Bindings/Models/PaymentMethods/Types/STPPaymentMethodEPS.swift
+/Users/gabrielpalmyro/Desktop/programacao/neighborhood/ios/Pods/StripePayments/StripePayments/StripePayments/Source/API\ Bindings/Models/PaymentMethods/Types/STPPaymentMethodEPSParams.swift
+/Users/gabrielpalmyro/Desktop/programacao/neighborhood/ios/Pods/StripePayments/StripePayments/StripePayments/Source/API\ Bindings/Models/PaymentMethods/Types/STPPaymentMethodFPX.swift
+/Users/gabrielpalmyro/Desktop/programacao/neighborhood/ios/Pods/StripePayments/StripePayments/StripePayments/Source/API\ Bindings/Models/PaymentMethods/Types/STPPaymentMethodFPXParams.swift
+/Users/gabrielpalmyro/Desktop/programacao/neighborhood/ios/Pods/StripePayments/StripePayments/StripePayments/Source/API\ Bindings/Models/PaymentMethods/Types/STPPaymentMethodGiropay.swift
+/Users/gabrielpalmyro/Desktop/programacao/neighborhood/ios/Pods/StripePayments/StripePayments/StripePayments/Source/API\ Bindings/Models/PaymentMethods/Types/STPPaymentMethodGiropayParams.swift
+/Users/gabrielpalmyro/Desktop/programacao/neighborhood/ios/Pods/StripePayments/StripePayments/StripePayments/Source/API\ Bindings/Models/PaymentMethods/Types/STPPaymentMethodGrabPay.swift
+/Users/gabrielpalmyro/Desktop/programacao/neighborhood/ios/Pods/StripePayments/StripePayments/StripePayments/Source/API\ Bindings/Models/PaymentMethods/Types/STPPaymentMethodGrabPayParams.swift
+/Users/gabrielpalmyro/Desktop/programacao/neighborhood/ios/Pods/StripePayments/StripePayments/StripePayments/Source/API\ Bindings/Models/PaymentMethods/Types/STPPaymentMethodiDEAL.swift
+/Users/gabrielpalmyro/Desktop/programacao/neighborhood/ios/Pods/StripePayments/StripePayments/StripePayments/Source/API\ Bindings/Models/PaymentMethods/Types/STPPaymentMethodiDEALParams.swift
+/Users/gabrielpalmyro/Desktop/programacao/neighborhood/ios/Pods/StripePayments/StripePayments/StripePayments/Source/API\ Bindings/Models/PaymentMethods/Types/STPPaymentMethodKlarna.swift
+/Users/gabrielpalmyro/Desktop/programacao/neighborhood/ios/Pods/StripePayments/StripePayments/StripePayments/Source/API\ Bindings/Models/PaymentMethods/Types/STPPaymentMethodKlarnaParams.swift
+/Users/gabrielpalmyro/Desktop/programacao/neighborhood/ios/Pods/StripePayments/StripePayments/StripePayments/Source/API\ Bindings/Models/PaymentMethods/Types/STPPaymentMethodLink.swift
+/Users/gabrielpalmyro/Desktop/programacao/neighborhood/ios/Pods/StripePayments/StripePayments/StripePayments/Source/API\ Bindings/Models/PaymentMethods/Types/STPPaymentMethodLinkParams.swift
+/Users/gabrielpalmyro/Desktop/programacao/neighborhood/ios/Pods/StripePayments/StripePayments/StripePayments/Source/Internal/API\ Bindings/STPPaymentMethodListDeserializer.swift
+/Users/gabrielpalmyro/Desktop/programacao/neighborhood/ios/Pods/StripePayments/StripePayments/StripePayments/Source/API\ Bindings/Models/PaymentMethods/Types/STPPaymentMethodMobilePay.swift
+/Users/gabrielpalmyro/Desktop/programacao/neighborhood/ios/Pods/StripePayments/StripePayments/StripePayments/Source/API\ Bindings/Models/PaymentMethods/Types/STPPaymentMethodMobilePayParams.swift
+/Users/gabrielpalmyro/Desktop/programacao/neighborhood/ios/Pods/StripePayments/StripePayments/StripePayments/Source/API\ Bindings/Models/PaymentMethods/Types/STPPaymentMethodMultibanco.swift
+/Users/gabrielpalmyro/Desktop/programacao/neighborhood/ios/Pods/StripePayments/StripePayments/StripePayments/Source/API\ Bindings/Models/PaymentMethods/Types/STPPaymentMethodMultibancoParams.swift
+/Users/gabrielpalmyro/Desktop/programacao/neighborhood/ios/Pods/StripePayments/StripePayments/StripePayments/Source/API\ Bindings/Models/PaymentMethods/Types/STPPaymentMethodNetBanking.swift
+/Users/gabrielpalmyro/Desktop/programacao/neighborhood/ios/Pods/StripePayments/StripePayments/StripePayments/Source/API\ Bindings/Models/PaymentMethods/Types/STPPaymentMethodNetBankingParams.swift
+/Users/gabrielpalmyro/Desktop/programacao/neighborhood/ios/Pods/StripePayments/StripePayments/StripePayments/Source/API\ Bindings/Models/Shared/STPPaymentMethodOptions.swift
+/Users/gabrielpalmyro/Desktop/programacao/neighborhood/ios/Pods/StripePayments/StripePayments/StripePayments/Source/API\ Bindings/Models/PaymentMethods/Types/STPPaymentMethodOXXO.swift
+/Users/gabrielpalmyro/Desktop/programacao/neighborhood/ios/Pods/StripePayments/StripePayments/StripePayments/Source/API\ Bindings/Models/PaymentMethods/Types/STPPaymentMethodOXXOParams.swift
+/Users/gabrielpalmyro/Desktop/programacao/neighborhood/ios/Pods/StripePayments/StripePayments/StripePayments/Source/API\ Bindings/Models/PaymentMethods/STPPaymentMethodParams.swift
+/Users/gabrielpalmyro/Desktop/programacao/neighborhood/ios/Pods/StripePayments/StripePayments/StripePayments/Source/API\ Bindings/Models/PaymentMethods/Types/STPPaymentMethodPayPal.swift
+/Users/gabrielpalmyro/Desktop/programacao/neighborhood/ios/Pods/StripePayments/StripePayments/StripePayments/Source/API\ Bindings/Models/PaymentMethods/Types/STPPaymentMethodPayPalParams.swift
+/Users/gabrielpalmyro/Desktop/programacao/neighborhood/ios/Pods/StripePayments/StripePayments/StripePayments/Source/API\ Bindings/Models/PaymentMethods/Types/STPPaymentMethodPrzelewy24.swift
+/Users/gabrielpalmyro/Desktop/programacao/neighborhood/ios/Pods/StripePayments/StripePayments/StripePayments/Source/API\ Bindings/Models/PaymentMethods/Types/STPPaymentMethodPrzelewy24Params.swift
+/Users/gabrielpalmyro/Desktop/programacao/neighborhood/ios/Pods/StripePayments/StripePayments/StripePayments/Source/API\ Bindings/Models/PaymentMethods/Types/STPPaymentMethodRevolutPay.swift
+/Users/gabrielpalmyro/Desktop/programacao/neighborhood/ios/Pods/StripePayments/StripePayments/StripePayments/Source/API\ Bindings/Models/PaymentMethods/Types/STPPaymentMethodRevolutPayParams.swift
+/Users/gabrielpalmyro/Desktop/programacao/neighborhood/ios/Pods/StripePayments/StripePayments/StripePayments/Source/API\ Bindings/Models/PaymentMethods/Types/STPPaymentMethodSatispay.swift
+/Users/gabrielpalmyro/Desktop/programacao/neighborhood/ios/Pods/StripePayments/StripePayments/StripePayments/Source/API\ Bindings/Models/PaymentMethods/Types/STPPaymentMethodSatispayParams.swift
+/Users/gabrielpalmyro/Desktop/programacao/neighborhood/ios/Pods/StripePayments/StripePayments/StripePayments/Source/API\ Bindings/Models/PaymentMethods/Types/STPPaymentMethodSEPADebit.swift
+/Users/gabrielpalmyro/Desktop/programacao/neighborhood/ios/Pods/StripePayments/StripePayments/StripePayments/Source/API\ Bindings/Models/PaymentMethods/Types/STPPaymentMethodSEPADebitParams.swift
+/Users/gabrielpalmyro/Desktop/programacao/neighborhood/ios/Pods/StripePayments/StripePayments/StripePayments/Source/API\ Bindings/Models/PaymentMethods/Types/STPPaymentMethodSofort.swift
+/Users/gabrielpalmyro/Desktop/programacao/neighborhood/ios/Pods/StripePayments/StripePayments/StripePayments/Source/API\ Bindings/Models/PaymentMethods/Types/STPPaymentMethodSofortParams.swift
+/Users/gabrielpalmyro/Desktop/programacao/neighborhood/ios/Pods/StripePayments/StripePayments/StripePayments/Source/API\ Bindings/Models/PaymentMethods/Types/STPPaymentMethodSunbit.swift
+/Users/gabrielpalmyro/Desktop/programacao/neighborhood/ios/Pods/StripePayments/StripePayments/StripePayments/Source/API\ Bindings/Models/PaymentMethods/Types/STPPaymentMethodSunbitParams.swift
+/Users/gabrielpalmyro/Desktop/programacao/neighborhood/ios/Pods/StripePayments/StripePayments/StripePayments/Source/API\ Bindings/Models/PaymentMethods/Types/STPPaymentMethodSwish.swift
+/Users/gabrielpalmyro/Desktop/programacao/neighborhood/ios/Pods/StripePayments/StripePayments/StripePayments/Source/API\ Bindings/Models/PaymentMethods/Types/STPPaymentMethodSwishParams.swift
+/Users/gabrielpalmyro/Desktop/programacao/neighborhood/ios/Pods/StripePayments/StripePayments/StripePayments/Source/API\ Bindings/Models/PaymentMethods/Types/STPPaymentMethodThreeDSecureUsage.swift
+/Users/gabrielpalmyro/Desktop/programacao/neighborhood/ios/Pods/StripePayments/StripePayments/StripePayments/Source/API\ Bindings/Models/PaymentMethods/STPPaymentMethodUpdateParams.swift
+/Users/gabrielpalmyro/Desktop/programacao/neighborhood/ios/Pods/StripePayments/StripePayments/StripePayments/Source/API\ Bindings/Models/PaymentMethods/Types/STPPaymentMethodUPI.swift
+/Users/gabrielpalmyro/Desktop/programacao/neighborhood/ios/Pods/StripePayments/StripePayments/StripePayments/Source/API\ Bindings/Models/PaymentMethods/Types/STPPaymentMethodUPIParams.swift
+/Users/gabrielpalmyro/Desktop/programacao/neighborhood/ios/Pods/StripePayments/StripePayments/StripePayments/Source/API\ Bindings/Models/PaymentMethods/Types/STPPaymentMethodUSBankAccount.swift
+/Users/gabrielpalmyro/Desktop/programacao/neighborhood/ios/Pods/StripePayments/StripePayments/StripePayments/Source/API\ Bindings/Models/PaymentMethods/Types/STPPaymentMethodUSBankAccountParams.swift
+/Users/gabrielpalmyro/Desktop/programacao/neighborhood/ios/Pods/StripePayments/StripePayments/StripePayments/Source/API\ Bindings/Models/PaymentMethods/Types/STPPaymentMethodWeChatPay.swift
+/Users/gabrielpalmyro/Desktop/programacao/neighborhood/ios/Pods/StripePayments/StripePayments/StripePayments/Source/API\ Bindings/Models/PaymentMethods/Types/STPPaymentMethodWeChatPayParams.swift
+/Users/gabrielpalmyro/Desktop/programacao/neighborhood/ios/Pods/StripePayments/StripePayments/StripePayments/Source/API\ Bindings/Models/STPRadarSession.swift
+/Users/gabrielpalmyro/Desktop/programacao/neighborhood/ios/Pods/StripePayments/StripePayments/StripePayments/Source/API\ Bindings/STPRedirectContext.swift
+/Users/gabrielpalmyro/Desktop/programacao/neighborhood/ios/Pods/StripePayments/StripePayments/StripePayments/Source/API\ Bindings/Models/SetupIntents/STPSetupIntent.swift
+/Users/gabrielpalmyro/Desktop/programacao/neighborhood/ios/Pods/StripePayments/StripePayments/StripePayments/Source/API\ Bindings/Models/SetupIntents/STPSetupIntentConfirmParams.swift
+/Users/gabrielpalmyro/Desktop/programacao/neighborhood/ios/Pods/StripePayments/StripePayments/StripePayments/Source/API\ Bindings/Models/SetupIntents/STPSetupIntentEnums.swift
+/Users/gabrielpalmyro/Desktop/programacao/neighborhood/ios/Pods/StripePayments/StripePayments/StripePayments/Source/API\ Bindings/Models/SetupIntents/STPSetupIntentLastSetupError.swift
+/Users/gabrielpalmyro/Desktop/programacao/neighborhood/ios/Pods/StripePayments/StripePayments/StripePayments/Source/API\ Bindings/Models/Sources/STPSource.swift
+/Users/gabrielpalmyro/Desktop/programacao/neighborhood/ios/Pods/StripePayments/StripePayments/StripePayments/Source/API\ Bindings/Models/Sources/Types/STPSourceCardDetails.swift
+/Users/gabrielpalmyro/Desktop/programacao/neighborhood/ios/Pods/StripePayments/StripePayments/StripePayments/Source/API\ Bindings/Models/Sources/STPSourceEnums.swift
+/Users/gabrielpalmyro/Desktop/programacao/neighborhood/ios/Pods/StripePayments/StripePayments/StripePayments/Source/API\ Bindings/Models/Sources/Types/STPSourceKlarnaDetails.swift
+/Users/gabrielpalmyro/Desktop/programacao/neighborhood/ios/Pods/StripePayments/StripePayments/StripePayments/Source/API\ Bindings/Models/Sources/STPSourceOwner.swift
+/Users/gabrielpalmyro/Desktop/programacao/neighborhood/ios/Pods/StripePayments/StripePayments/StripePayments/Source/API\ Bindings/Models/Sources/STPSourceParams.swift
+/Users/gabrielpalmyro/Desktop/programacao/neighborhood/ios/Pods/StripePayments/StripePayments/StripePayments/Source/Internal/API\ Bindings/STPSourcePoller.swift
+/Users/gabrielpalmyro/Desktop/programacao/neighborhood/ios/Pods/StripePayments/StripePayments/StripePayments/Source/API\ Bindings/Models/Sources/STPSourceProtocol.swift
+/Users/gabrielpalmyro/Desktop/programacao/neighborhood/ios/Pods/StripePayments/StripePayments/StripePayments/Source/API\ Bindings/Models/Sources/STPSourceReceiver.swift
+/Users/gabrielpalmyro/Desktop/programacao/neighborhood/ios/Pods/StripePayments/StripePayments/StripePayments/Source/API\ Bindings/Models/Sources/STPSourceRedirect.swift
+/Users/gabrielpalmyro/Desktop/programacao/neighborhood/ios/Pods/StripePayments/StripePayments/StripePayments/Source/API\ Bindings/Models/Sources/Types/STPSourceSEPADebitDetails.swift
+/Users/gabrielpalmyro/Desktop/programacao/neighborhood/ios/Pods/StripePayments/StripePayments/StripePayments/Source/API\ Bindings/Models/Sources/STPSourceVerification.swift
+/Users/gabrielpalmyro/Desktop/programacao/neighborhood/ios/Pods/StripePayments/StripePayments/StripePayments/Source/API\ Bindings/Models/Sources/Types/STPSourceWeChatPayDetails.swift
+/Users/gabrielpalmyro/Desktop/programacao/neighborhood/ios/Pods/StripePayments/StripePayments/StripePayments/Source/PaymentHandler/STPThreeDSButtonCustomization.swift
+/Users/gabrielpalmyro/Desktop/programacao/neighborhood/ios/Pods/StripePayments/StripePayments/StripePayments/Source/PaymentHandler/STPThreeDSCustomizationSettings.swift
+/Users/gabrielpalmyro/Desktop/programacao/neighborhood/ios/Pods/StripePayments/StripePayments/StripePayments/Source/PaymentHandler/STPThreeDSFooterCustomization.swift
+/Users/gabrielpalmyro/Desktop/programacao/neighborhood/ios/Pods/StripePayments/StripePayments/StripePayments/Source/PaymentHandler/STPThreeDSLabelCustomization.swift
+/Users/gabrielpalmyro/Desktop/programacao/neighborhood/ios/Pods/StripePayments/StripePayments/StripePayments/Source/PaymentHandler/STPThreeDSNavigationBarCustomization.swift
+/Users/gabrielpalmyro/Desktop/programacao/neighborhood/ios/Pods/StripePayments/StripePayments/StripePayments/Source/PaymentHandler/STPThreeDSSelectionCustomization.swift
+/Users/gabrielpalmyro/Desktop/programacao/neighborhood/ios/Pods/StripePayments/StripePayments/StripePayments/Source/PaymentHandler/STPThreeDSTextFieldCustomization.swift
+/Users/gabrielpalmyro/Desktop/programacao/neighborhood/ios/Pods/StripePayments/StripePayments/StripePayments/Source/PaymentHandler/STPThreeDSUICustomization.swift
+/Users/gabrielpalmyro/Desktop/programacao/neighborhood/ios/Pods/StripePayments/StripePayments/StripePayments/Source/API\ Bindings/Models/STPToken.swift
+/Users/gabrielpalmyro/Desktop/programacao/neighborhood/ios/Pods/StripePayments/StripePayments/StripePayments/Source/Captcha/String+Dict.swift
+/Users/gabrielpalmyro/Desktop/programacao/neighborhood/ios/Pods/StripePayments/StripePayments/StripePayments/Source/API\ Bindings/Legacy\ Compatability/StripeAPI+Deprecated.swift
+/Users/gabrielpalmyro/Desktop/programacao/neighborhood/ios/Pods/StripePayments/StripePayments/StripePayments/Source/API\ Bindings/Legacy\ Compatability/StripeApplePay+Import.swift
+/Users/gabrielpalmyro/Desktop/programacao/neighborhood/ios/Pods/StripePayments/StripePayments/StripePayments/Source/API\ Bindings/Legacy\ Compatability/StripeCore+Import.swift
+/Users/gabrielpalmyro/Desktop/programacao/neighborhood/ios/Pods/StripePayments/StripePayments/StripePayments/Source/Helpers/StripePayments+Export.swift
+/Users/gabrielpalmyro/Desktop/programacao/neighborhood/ios/Pods/StripePayments/StripePayments/StripePayments/Source/Helpers/StripePaymentsBundleLocator.swift

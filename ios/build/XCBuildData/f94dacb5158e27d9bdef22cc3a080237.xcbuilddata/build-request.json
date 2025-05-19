@@ -1,0 +1,193 @@
+{
+  "buildCommand" : {
+    "command" : "prepareForIndexing",
+    "enableIndexBuildArena" : false,
+    "targets" : null
+  },
+  "configuredTargets" : [
+    {
+      "guid" : "8699adb1dd336b26511df848a716bd429da425bb6d6d5d8dbb95e4afffb82217"
+    },
+    {
+      "guid" : "8699adb1dd336b26511df848a716bd4208993ee7e539dbc8104a52b3ab1a956e"
+    },
+    {
+      "guid" : "8699adb1dd336b26511df848a716bd4216b0fe840601efa86417b337ac336703"
+    },
+    {
+      "guid" : "8699adb1dd336b26511df848a716bd42312b4bc59bbbe2c06c205bf4da6737f5"
+    },
+    {
+      "guid" : "8699adb1dd336b26511df848a716bd42483832d3c820398e9d40e1a6904b03fe"
+    },
+    {
+      "guid" : "8699adb1dd336b26511df848a716bd4202b8a2060b8f4c4f36a50487027e7bca"
+    },
+    {
+      "guid" : "8699adb1dd336b26511df848a716bd42e3c8c4fe52fbe53a296306feca7852dc"
+    },
+    {
+      "guid" : "8699adb1dd336b26511df848a716bd4264c30109ee71434e4e716d99f4166e22"
+    },
+    {
+      "guid" : "8699adb1dd336b26511df848a716bd422d98be93881617cd378e87b1e9124bc7"
+    },
+    {
+      "guid" : "8699adb1dd336b26511df848a716bd42187aa9b7cb03205c0a20870023770d0e"
+    },
+    {
+      "guid" : "8699adb1dd336b26511df848a716bd42528ce098433a66c9a9c5c097217013f2"
+    },
+    {
+      "guid" : "8699adb1dd336b26511df848a716bd42d674f3290efcd2de597384adfcbdaba8"
+    },
+    {
+      "guid" : "8699adb1dd336b26511df848a716bd429814132af5b72ab87e6f6046cac2a3cd"
+    },
+    {
+      "guid" : "8699adb1dd336b26511df848a716bd4266fcbf2145af8cde4f3933391dacb315"
+    },
+    {
+      "guid" : "8699adb1dd336b26511df848a716bd42caf0f30362a7eaf9b8b7f5ba71771d54"
+    },
+    {
+      "guid" : "8699adb1dd336b26511df848a716bd428f7bb11e5be5660ad9f4032af4c402d3"
+    },
+    {
+      "guid" : "8699adb1dd336b26511df848a716bd42038c9f1052da405eea5f7a2de7f4dc12"
+    },
+    {
+      "guid" : "8699adb1dd336b26511df848a716bd42bfacf038ceaf928d957d7e7abcab2e3b"
+    },
+    {
+      "guid" : "8699adb1dd336b26511df848a716bd42821f5b3e5beb50f85c2c602e7f37448c"
+    },
+    {
+      "guid" : "8699adb1dd336b26511df848a716bd42f17b608a8faeb01ef6ec76d52489fd0b"
+    },
+    {
+      "guid" : "8699adb1dd336b26511df848a716bd427f7028d350d8dbcdcb7368a70c545730"
+    },
+    {
+      "guid" : "8699adb1dd336b26511df848a716bd42355cff7d758029119bc2218cc297bc97"
+    },
+    {
+      "guid" : "8699adb1dd336b26511df848a716bd42306ea98533a6c78c50f5382ab243d3bc"
+    },
+    {
+      "guid" : "8699adb1dd336b26511df848a716bd427cb9c58d33d05677fb576674bac57313"
+    },
+    {
+      "guid" : "8699adb1dd336b26511df848a716bd42a0220561f537715e864e45aed9ae8b8b"
+    },
+    {
+      "guid" : "8699adb1dd336b26511df848a716bd42839a1650b1f10605b2db52456c9e6468"
+    },
+    {
+      "guid" : "8699adb1dd336b26511df848a716bd425739272bce418ef50bd06c859612bad5"
+    },
+    {
+      "guid" : "8699adb1dd336b26511df848a716bd421f000f066404b97b12e9c4ca84d38d0f"
+    },
+    {
+      "guid" : "8699adb1dd336b26511df848a716bd42082dc85da1fc941e5234c7cc1f11b27d"
+    },
+    {
+      "guid" : "8699adb1dd336b26511df848a716bd42f4438af4c3c51df17ddafa29b7aae198"
+    },
+    {
+      "guid" : "8699adb1dd336b26511df848a716bd4230037b09fee48cfce1f8562d753688c8"
+    },
+    {
+      "guid" : "8699adb1dd336b26511df848a716bd427ea64ee8d53085bf9edd1a57aaf8cbb5"
+    },
+    {
+      "guid" : "8699adb1dd336b26511df848a716bd42ef10255b706f98e1e88fae00855b0968"
+    },
+    {
+      "guid" : "8699adb1dd336b26511df848a716bd4202f35ab680609a626ebd2ddd692a3822"
+    },
+    {
+      "guid" : "8699adb1dd336b26511df848a716bd4228cab1f188854e0a973e6ff6905c5ffe"
+    },
+    {
+      "guid" : "8699adb1dd336b26511df848a716bd42e0be3b0d5ad56f1985578b1f97431765"
+    },
+    {
+      "guid" : "8699adb1dd336b26511df848a716bd421304d3d2169071b3ca365b19f5340b7c"
+    },
+    {
+      "guid" : "8699adb1dd336b26511df848a716bd4283134bb5f399cb37a1eb075d4fea30d8"
+    },
+    {
+      "guid" : "8699adb1dd336b26511df848a716bd42f20376386b7fdaf72e36b18058deba48"
+    },
+    {
+      "guid" : "8699adb1dd336b26511df848a716bd42903e66fa03d6d27edaa18126a82c20fd"
+    },
+    {
+      "guid" : "8699adb1dd336b26511df848a716bd4291b3b8cc56823cdea4b418e009a423b2"
+    },
+    {
+      "guid" : "18c1723432283e0cc55f10a6dcfd9e0259d0b50414734edc77e5fd6bc4801b30"
+    },
+    {
+      "guid" : "18c1723432283e0cc55f10a6dcfd9e0288a783a885d8b0b3beb2e9f90bde3f49"
+    },
+    {
+      "guid" : "18c1723432283e0cc55f10a6dcfd9e02b835f5f63276aec8d000a1f39e912778"
+    }
+  ],
+  "containerPath" : "/Users/gabrielpalmyro/Desktop/programacao/neighborhood/ios/Runner.xcworkspace",
+  "continueBuildingAfterErrors" : true,
+  "dependencyScope" : "workspace",
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "build",
+    "activeArchitecture" : "undefined_arch",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : true,
+      "platform" : "iphoneos",
+      "sdk" : "iphoneos18.2",
+      "sdkVariant" : "iphoneos",
+      "supportedArchitectures" : [
+        "armv4t",
+        "armv5",
+        "armv6",
+        "armv7",
+        "armv7f",
+        "armv7s",
+        "armv7k",
+        "arm64",
+        "arm64e"
+      ],
+      "targetArchitecture" : "undefined_arch"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "",
+      "buildProductsPath" : "",
+      "derivedDataPath" : "/Users/gabrielpalmyro/Library/Developer/Xcode/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/gabrielpalmyro/Library/Developer/Xcode/DerivedData/Runner-gqloubtakxicdcbdxvkaexoqvkdh/Index.noindex/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/gabrielpalmyro/Library/Developer/Xcode/DerivedData/Runner-gqloubtakxicdcbdxvkaexoqvkdh/Index.noindex/PrecompiledHeaders",
+      "pchPath" : ""
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ENABLE_PREVIEWS" : "NO",
+          "ENABLE_XOJIT_PREVIEWS" : "NO"
+        }
+      }
+    }
+  },
+  "qos" : "default",
+  "schemeCommand" : "launch",
+  "showNonLoggedProgress" : true,
+  "useDryRun" : true,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}

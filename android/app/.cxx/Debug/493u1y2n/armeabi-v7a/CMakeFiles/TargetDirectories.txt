@@ -1,0 +1,2 @@
+/Users/gabrielpalmyro/Desktop/programacao/neighborhood/android/app/.cxx/Debug/493u1y2n/armeabi-v7a/CMakeFiles/edit_cache.dir
+/Users/gabrielpalmyro/Desktop/programacao/neighborhood/android/app/.cxx/Debug/493u1y2n/armeabi-v7a/CMakeFiles/rebuild_cache.dir
